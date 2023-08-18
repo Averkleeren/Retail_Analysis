@@ -1,0 +1,578 @@
+Address,Square ft,Sale Date,Price,Beds,Baths
+"2125 Southend Dr APT 334, Charlotte, NC 28203",542,Sold 05/19/2023,"$265,000",1,1
+"1001 Berkeley Ave, Charlotte, NC 28203","4,069",Sold 05/02/2023,$1.80M,6,5
+"1315 East Blvd UNIT 532, Charlotte, NC 28203",808,Sold 05/01/2023,"$299,900",1,1
+"1315 East Blvd UNIT 312, Charlotte, NC 28203",672,Sold 05/01/2023,"$295,900",1,1
+"1315 East Blvd UNIT 307, Charlotte, NC 28203","1,080",Sold 05/01/2023,"$420,225",2,2
+"922 E Park Ave, Charlotte, NC 28203","5,526",Sold 05/01/2023,$3.20M,5,5
+"301 E Tremont Ave APT 216, Charlotte, NC 28203","1,300",Sold 05/01/2023,"$500,000",2,2
+"301 E Tremont Ave E #216, Charlotte, NC 28203","1,259",Sold 05/01/2023,"$500,000",2,2
+"812 McDonald Ave, Charlotte, NC 28203","2,852",Sold 04/28/2023,$1.30M,4,4
+"1641 Dilworth Rd W, Charlotte, NC 28203","6,426",Sold 04/28/2023,$3.00M,5,6
+"1315 East Blvd UNIT 418, Charlotte, NC 28203",667,Sold 04/28/2023,"$290,000",1,1
+"1918 Ewing Ave, Charlotte, NC 28203","3,296",Sold 04/17/2023,$1.95M,4,4
+"645 Ideal Way, Charlotte, NC 28203","3,231",Sold 04/11/2023,"$975,000",5,4
+"504 E Kingston Ave, Charlotte, NC 28203","3,075",Sold 04/06/2023,$1.50M,4,3
+"614 McDonald Ave, Charlotte, NC 28203","2,772",Sold 04/03/2023,$1.40M,4,3
+"2033 Dilworth Road West 3, Charlotte, NC 28203",900,Sold 03/30/2023,"$282,000",1,1
+"2033 Dilworth Rd W APT 3, Charlotte, NC 28203",755,Sold 03/30/2023,"$282,500",1,1
+"1815 Dilworth Rd E, Charlotte, NC 28203","2,749",Sold 03/17/2023,$1.12M,3,3
+"1315 East Blvd UNIT 318, Charlotte, NC 28203",669,Sold 03/16/2023,"$275,000",1,1
+"743 Magnolia Ave #101, Charlotte, NC 28203","1,433",Sold 03/15/2023,"$500,000",3,3
+"743 Magnolia Ave #101-C, Charlotte, NC 28203","1,436",Sold 03/15/2023,"$500,000",3,3
+"612 Dorothy Dr, Charlotte, NC 28203","3,625",Sold 03/10/2023,$1.50M,5,4
+"1829 Kenilworth Ave UNIT 310, Charlotte, NC 28203","1,060",Sold 02/28/2023,"$392,500",2,2
+"1829 Kenilworth Ave UNIT 201B, Charlotte, NC 28203",955,Sold 02/28/2023,"$392,500",1,1
+"1315 East Blvd UNIT 424, Charlotte, NC 28203",733,Sold 02/16/2023,"$293,000",1,1
+"641 Dorothy Dr, Charlotte, NC 28203",955,Sold 02/10/2023,"$685,000",3,1
+"520 McDonald Ave, Charlotte, NC 28203",899,Sold 02/07/2023,"$625,000",Studio,--
+"415 Mather Green Ave APT D, Charlotte, NC 28203",696,Sold 02/03/2023,"$310,000",1,1
+"700 Berkeley Ave, Charlotte, NC 28203","5,330",Sold 01/09/2023,$2.45M,5,4
+"509 E Tremont Ave, Charlotte, NC 28203","1,626",Sold 01/06/2023,"$850,000",3,2
+"2125 Southend Dr APT 408, Charlotte, NC 28203","1,383",Sold 12/21/2022,"$515,000",2,2
+"1315 East Blvd UNIT 327, Charlotte, NC 28203",767,Sold 12/21/2022,"$291,000",1,1
+"1938 Scott Ave, Charlotte, NC 28203","2,793",Sold 12/20/2022,"$875,000",4,4
+"300 McDonald Ave, Charlotte, NC 28203","4,781",Sold 12/19/2022,$1.94M,5,5
+"512 Olmsted Park Pl, Charlotte, NC 28203","1,660",Sold 12/19/2022,"$825,000",3,3
+"527 E Kingston Ave, Charlotte, NC 28203","3,396",Sold 12/16/2022,$1.43M,4,3
+"629 Ideal Way, Charlotte, NC 28203","4,082",Sold 12/15/2022,$1.53M,5,4
+"1008 Mount Vernon Ave, Charlotte, NC 28203","2,904",Sold 12/15/2022,$1.66M,3,3
+"705 E Tremont Ave, Charlotte, NC 28203","2,137",Sold 12/12/2022,$1.05M,3,3
+"641 Ideal Way, Charlotte, NC 28203","4,423",Sold 12/09/2022,$1.65M,5,5
+"2224 Springdale Ave, Charlotte, NC 28203","4,367",Sold 12/09/2022,$1.43M,5,4
+"724 E Tremont Ave, Charlotte, NC 28203","3,179",Sold 12/05/2022,$1.08M,4,3
+"657 Diana Dr, Charlotte, NC 28203","4,013",Sold 11/30/2022,$1.31M,5,4
+"2201 Lyndhurst Ave, Charlotte, NC 28203","1,527",Sold 11/28/2022,"$715,000",3,3
+"2336 Springdale Ave, Charlotte, NC 28203","5,422",Sold 11/22/2022,$1.10M,5,4
+"623 Diana Dr, Charlotte, NC 28203",973,Sold 11/21/2022,"$675,000",3,1
+"2008 Scott Ave, Charlotte, NC 28203","1,431",Sold 11/18/2022,"$670,000",3,2
+"1330 Carlton Ave, Charlotte, NC 28203","4,950",Sold 11/17/2022,$1.45M,5,6
+"608 E Tremont Ave, Charlotte, NC 28203","1,988",Sold 11/15/2022,"$930,000",4,2
+"300 E Worthington Ave, Charlotte, NC 28203",--,Sold 11/15/2022,"$825,000",3,2
+"527 Dilworth Mews Ct, Charlotte, NC 28203","2,922",Sold 11/14/2022,$1.01M,4,4
+"527 Dilworth Mews Ct, Charlotte, NC 28203","2,698",Sold 11/14/2022,$1.01M,3,3.5
+"1315 East Blvd UNIT 221, Charlotte, NC 28203",749,Sold 11/11/2022,"$292,000",1,1
+"2046 Atherton Heights Ln, Charlotte, NC 28203","1,098",Sold 11/07/2022,"$370,000",2,2
+"436 E Park Ave #A, Charlotte, NC 28203","1,287",Sold 11/03/2022,"$415,000",2,1.5
+"317 E Tremont Ave APT 103, Charlotte, NC 28203","1,157",Sold 11/03/2022,"$575,000",2,3
+"436 E Park Ave, Charlotte, NC 28203","1,442",Sold 11/03/2022,"$415,000",2,2
+"1829 Kenilworth Ave UNIT 303, Charlotte, NC 28203",846,Sold 11/02/2022,"$330,000",1,1
+"1315 East Blvd UNIT 315, Charlotte, NC 28203",795,Sold 10/31/2022,"$299,900",1,1
+"1315 East Blvd UNIT 820, Charlotte, NC 28203","1,112",Sold 10/31/2022,"$400,000",2,2
+"735 Magnolia Ave, Charlotte, NC 28203","1,690",Sold 10/29/2022,"$500,000",3,3
+"910 E Worthington Ave, Charlotte, NC 28203","3,146",Sold 10/28/2022,$1.70M,4,4
+"735 Magnolia Ave #105, Charlotte, NC 28203","1,827",Sold 10/28/2022,"$500,000",3,2.5
+"2033 Charlotte Dr, Charlotte, NC 28203","1,480",Sold 10/20/2022,"$792,000",2,2
+"1829 Kenilworth Ave UNIT 306, Charlotte, NC 28203","1,071",Sold 10/18/2022,"$478,900",2,2
+"1829 Kenilworth Ave #306B, Charlotte, NC 28203","1,095",Sold 10/18/2022,"$478,900",2,2
+"2209 Sumner Green Ave APT L, Charlotte, NC 28203",887,Sold 10/14/2022,"$375,000",2,2
+"1829 Dilworth Rd, Charlotte, NC 28203","2,976",Sold 10/11/2022,$1.53M,4,4
+"1231 Lexington Ave, Charlotte, NC 28203","2,225",Sold 10/11/2022,$1.09M,3,2
+"720 E Park Ave, Charlotte, NC 28203","2,034",Sold 10/04/2022,$1.10M,3,3
+"1315 East Blvd UNIT 509, Charlotte, NC 28203","1,090",Sold 10/04/2022,"$398,000",2,2
+"1315 East Blvd UNIT 502, Charlotte, NC 28203",602,Sold 10/04/2022,"$262,500",1,1
+"1315 East Blvd UNIT 614, Charlotte, NC 28203",790,Sold 09/30/2022,"$293,850",1,1
+"404 E Worthington Ave, Charlotte, NC 28203","2,223",Sold 09/22/2022,$1.05M,4,3
+"2125 Southend Dr APT 321, Charlotte, NC 28203",854,Sold 09/20/2022,"$362,500",1,1
+"1924 Euclid Ave, Charlotte, NC 28203","2,250",Sold 09/19/2022,$1.05M,3,4
+"724 Brookside Ave, Charlotte, NC 28203","3,092",Sold 09/16/2022,$1.80M,3,4
+"724 Brookside Ave, Charlotte, NC 28203","2,944",Sold 09/15/2022,$1.80M,3,3.5
+"628 Olmsted Park Pl, Charlotte, NC 28203","1,702",Sold 09/09/2022,"$865,000",3,3
+"1213 Ideal Way, Charlotte, NC 28203","3,005",Sold 09/09/2022,$1.13M,5,3
+"2006 Atherton Heights Ln, Charlotte, NC 28203","1,201",Sold 09/07/2022,"$427,500",2,2
+"1219 E Worthington Ave, Charlotte, NC 28203","2,268",Sold 09/06/2022,$1.10M,4,4
+"1112 Shuman View Ct, Charlotte, NC 28203","1,731",Sold 09/01/2022,"$525,000",3,4
+"823 E Worthington Ave, Charlotte, NC 28203","3,393",Sold 08/31/2022,$1.68M,4,3
+"1316 Millpark Ln #17, Charlotte, NC 28203","1,723",Sold 08/31/2022,"$585,000",3,4
+"1400 Dilworth Rd, Charlotte, NC 28203","5,103",Sold 08/29/2022,$2.55M,4,6
+"301 E Tremont Ave APT 213, Charlotte, NC 28203","1,069",Sold 08/29/2022,"$435,000",2,2
+"1934 Euclid Ave, Charlotte, NC 28203","2,062",Sold 08/25/2022,"$905,000",3,4
+"2209 Sumner Green Ave APT J, Charlotte, NC 28203",883,Sold 08/19/2022,"$312,000",2,2
+"1210 Dilworth Rd, Charlotte, NC 28203","4,119",Sold 08/18/2022,$2.28M,4,4
+"2315 Winthrop Ave, Charlotte, NC 28203","3,242",Sold 08/17/2022,$1.30M,5,3
+"1119 Shuman View Ct #1, Charlotte, NC 28203","1,727",Sold 08/15/2022,"$585,000",3,4
+"1829 Kenilworth Ave UNIT 301B, Charlotte, NC 28203","1,220",Sold 08/12/2022,"$435,000",2,2
+"1932 Park Rd, Charlotte, NC 28203","2,300",Sold 08/11/2022,$1.15M,3,3
+"1829 Kenilworth Ave UNIT 301, Charlotte, NC 28203","1,210",Sold 08/11/2022,"$435,000",2,2
+"1304 Millpark Ln #20, Charlotte, NC 28203","1,727",Sold 08/09/2022,"$639,000",3,4
+"2048 Euclid Ave, Charlotte, NC 28203","1,691",Sold 08/05/2022,"$725,000",3,3
+"1308 Millpark Ln #19, Charlotte, NC 28203","1,723",Sold 08/04/2022,"$587,300",3,4
+"1312 Millpark Ln #18, Charlotte, NC 28203","1,723",Sold 08/04/2022,"$577,100",3,4
+"632 Dorothy Dr, Charlotte, NC 28203","1,019",Sold 07/29/2022,"$695,000",2,1.5
+"1315 East Blvd UNIT 517, Charlotte, NC 28203",775,Sold 07/29/2022,"$210,000",1,1
+"1315 East Blvd UNIT 612, Charlotte, NC 28203","1,100",Sold 07/27/2022,"$425,000",2,2
+"1320 Millpark Ln #16, Charlotte, NC 28203","1,727",Sold 07/27/2022,"$543,100",2,3
+"1829 Kenilworth Ave UNIT 203, Charlotte, NC 28203",846,Sold 07/25/2022,"$290,000",1,1
+"2125 Southend Dr APT 119, Charlotte, NC 28203","1,134",Sold 07/20/2022,"$405,000",2,2
+"1942 Euclid Ave, Charlotte, NC 28203","2,049",Sold 07/19/2022,"$965,000",3,4
+"1303 Millpark Ln #15, Charlotte, NC 28203","1,727",Sold 07/19/2022,"$556,500",2,4
+"408 E Tremont Ave, Charlotte, NC 28203","1,688",Sold 07/18/2022,"$863,500",3,3
+"504 Iverson Way, Charlotte, NC 28203","1,476",Sold 07/15/2022,"$725,000",3,3
+"1311 Millpark Ln #13, Charlotte, NC 28203","1,723",Sold 07/15/2022,"$509,400",2,4
+"1315 East Blvd UNIT 317, Charlotte, NC 28203",717,Sold 07/14/2022,"$290,000",1,1
+"1315 East Blvd UNIT 319, Charlotte, NC 28203",667,Sold 07/14/2022,"$249,500",1,1
+"1307 Millpark Ln #14, Charlotte, NC 28203","1,723",Sold 07/14/2022,"$518,800",2,4
+"1315 Millpark Ln #12, Charlotte, NC 28203","1,723",Sold 07/13/2022,"$520,100",2,4
+"2015 Atherton Heights Ln, Charlotte, NC 28203","1,158",Sold 07/11/2022,"$395,000",2,2
+"918 Magnolia Ave, Charlotte, NC 28203","2,569",Sold 07/08/2022,$1.08M,4,2
+"1315 East Blvd UNIT 333, Charlotte, NC 28203",780,Sold 07/08/2022,"$290,000",1,1
+"1315 East Blvd UNIT 415, Charlotte, NC 28203",754,Sold 07/08/2022,"$290,000",1,1
+"1315 East Blvd UNIT 229, Charlotte, NC 28203",752,Sold 07/07/2022,"$295,000",1,1
+"1104 Shuman View Ct #10, Charlotte, NC 28203","1,727",Sold 07/05/2022,"$528,000",2,4
+"1112 Shuman View Ct #8, Charlotte, NC 28203","1,723",Sold 07/05/2022,"$468,488",2,4
+"1319 Millpark Ln #11, Charlotte, NC 28203","1,727",Sold 07/01/2022,"$543,950",2,4
+"1016 Isleworth Ave, Charlotte, NC 28203","2,390",Sold 06/30/2022,"$750,000",3,3
+"2209 Sumner Green Ave APT G, Charlotte, NC 28203",736,Sold 06/30/2022,"$305,000",1,1
+"1315 East Blvd UNIT 711, Charlotte, NC 28203",969,Sold 06/30/2022,"$300,000",1,1
+"1108 Shuman View Ct #9, Charlotte, NC 28203","1,723",Sold 06/30/2022,"$508,300",2,4
+"1116 Shuman View Ct #7, Charlotte, NC 28203","1,723",Sold 06/29/2022,"$470,800",2,4
+"2125 Southend Dr APT 427, Charlotte, NC 28203",688,Sold 06/28/2022,"$315,000",1,1
+"501 East Blvd, Charlotte, NC 28203","3,235",Sold 06/28/2022,"$927,000",--,--
+"801 Brookside Ave, Charlotte, NC 28203","3,945",Sold 06/27/2022,$1.92M,5,4
+"1120 Shuman View Ct #6, Charlotte, NC 28203","1,727",Sold 06/23/2022,"$526,700",2,4
+"628 Diana Dr, Charlotte, NC 28203","1,146",Sold 06/22/2022,"$450,000",2,1
+"777 Magnolia Ave #305, Charlotte, NC 28203","1,640",Sold 06/22/2022,"$503,000",3,3
+"777 Magnolia Ave, Charlotte, NC 28203","1,665",Sold 06/22/2022,"$503,000",2,3
+"1709 Dilworth Rd #A, Charlotte, NC 28203","2,145",Sold 06/17/2022,"$840,000",3,3
+"2069 Atherton Heights Ln, Charlotte, NC 28203","1,161",Sold 06/15/2022,"$385,000",2,2
+"405 Magnolia Ave, Charlotte, NC 28203","1,460",Sold 06/13/2022,"$725,000",3,2
+"725 E Worthington Ave, Charlotte, NC 28203","2,394",Sold 06/09/2022,$1.45M,3,2
+"1107 Shuman View Ct #4, Charlotte, NC 28203","1,723",Sold 06/07/2022,"$470,200",2,4
+"1111 Shuman View Ct #3, Charlotte, NC 28203","1,723",Sold 06/07/2022,"$465,500",2,4
+"721 McDonald Ave, Charlotte, NC 28203","2,751",Sold 06/06/2022,$1.23M,5,3.5
+"2123 Park Rd, Charlotte, NC 28203","1,231",Sold 06/06/2022,"$632,000",2,1
+"1315 East Blvd UNIT 505, Charlotte, NC 28203","1,046",Sold 06/06/2022,"$425,000",2,2
+"1315 East Blvd UNIT 433, Charlotte, NC 28203",728,Sold 06/06/2022,"$270,000",1,1
+"525 Olmsted Park Pl APT P, Charlotte, NC 28203",707,Sold 06/03/2022,"$290,000",1,1
+"1315 East Blvd UNIT 308, Charlotte, NC 28203",720,Sold 06/02/2022,"$290,000",1,1
+"617 Ideal Way, Charlotte, NC 28203","3,185",Sold 06/01/2022,$1.45M,4,4
+"1115 Shuman View Ct #2, Charlotte, NC 28203","1,723",Sold 05/26/2022,"$475,700",2,4
+"2209 Sumner Green Ave APT I, Charlotte, NC 28203","1,101",Sold 05/25/2022,"$410,000",2,2
+"2044 Euclid Ave, Charlotte, NC 28203","1,479",Sold 05/20/2022,"$650,000",2,3
+"2124 Terwilliger Trce #44, Charlotte, NC 28203","1,830",Sold 05/13/2022,"$622,198",3,4
+"2116 Dilworth Rd W, Charlotte, NC 28203","2,618",Sold 05/12/2022,$1.23M,3,3
+"623 Olmsted Park Pl APT B, Charlotte, NC 28203","1,095",Sold 05/12/2022,"$390,000",2,2
+"623 Olmsted Park Pl E, Charlotte, NC 28203","1,100",Sold 05/12/2022,"$390,000",2,2
+"2042 Euclid Ave, Charlotte, NC 28203","1,750",Sold 05/11/2022,"$695,000",3,3
+"804 Ideal Way, Charlotte, NC 28203","2,901",Sold 05/10/2022,$1.25M,3,5
+"2210 Sumner Green Ave APT T, Charlotte, NC 28203",902,Sold 05/10/2022,"$385,000",2,2
+"804 Ideal Way, Charlotte, NC 28203","2,915",Sold 05/10/2022,$1.25M,3,4
+"705 E Kingston Ave APT 1, Charlotte, NC 28203",866,Sold 05/06/2022,$1.27M,1,1
+"1315 East Blvd UNIT 223, Charlotte, NC 28203",784,Sold 04/29/2022,"$295,000",1,1
+"277 McDonald Ave, Charlotte, NC 28203",574,Sold 04/29/2022,"$302,500",1,1
+"2086 Euclid Ave, Charlotte, NC 28203","1,211",Sold 04/29/2022,"$430,000",2,2
+"277 McDonald Ave #28, Charlotte, NC 28203",589,Sold 04/29/2022,"$302,500",1,1
+"632 Diana Dr, Charlotte, NC 28203","4,243",Sold 04/28/2022,"$500,500",5,6
+"2125 Southend Dr APT 108, Charlotte, NC 28203","1,155",Sold 04/28/2022,"$420,000",1,2
+"1315 East Blvd UNIT 408, Charlotte, NC 28203",728,Sold 04/19/2022,"$288,750",1,1
+"2132 Terwilliger Trce #46, Charlotte, NC 28203","1,830",Sold 04/18/2022,"$600,037",3,4
+"2128 Terwilliger Trce #45, Charlotte, NC 28203","1,830",Sold 04/18/2022,"$600,581",3,4
+"2125 Southend Dr APT 141, Charlotte, NC 28203",720,Sold 04/13/2022,"$300,000",1,1
+"1315 East Blvd UNIT 817, Charlotte, NC 28203","1,072",Sold 04/07/2022,"$410,000",2,2
+"2125 Dilworth Rd, Charlotte, NC 28203","3,050",Sold 04/05/2022,$1.70M,4,4
+"406 E Kingston Ave, Charlotte, NC 28203","4,147",Sold 04/05/2022,$1.25M,4,4
+"301 E Tremont Ave, Charlotte, NC 28203","1,367",Sold 03/30/2022,"$441,500",2,2
+"301 E Tremont Ave APT 211, Charlotte, NC 28203","1,015",Sold 03/30/2022,"$441,500",2,2
+"2133 Southend Dr APT 306, Charlotte, NC 28203",815,Sold 03/25/2022,"$265,000",1,1
+"1903 Kenilworth Ave UNIT 205, Charlotte, NC 28203","1,068",Sold 03/17/2022,"$405,000",2,2
+"1948 Park Rd, Charlotte, NC 28203","3,015",Sold 03/11/2022,$1.43M,4,3
+"2321 Winthrop Ave, Charlotte, NC 28203","4,011",Sold 03/11/2022,$1.60M,5,5
+"2136 Park Rd, Charlotte, NC 28203","1,311",Sold 03/10/2022,"$600,000",2,1
+"424 Mather Green Ave APT N, Charlotte, NC 28203",900,Sold 03/07/2022,"$375,000",2,2
+"1621 Park Rd, Charlotte, NC 28203","2,824",Sold 03/04/2022,"$625,000",4,2
+"2125 Southend Dr APT 443, Charlotte, NC 28203",545,Sold 03/04/2022,"$252,500",1,1
+"708 E Tremont Ave, Charlotte, NC 28203","3,450",Sold 03/03/2022,$1.37M,4,4
+"2125 Southend Dr APT 249, Charlotte, NC 28203","1,124",Sold 03/03/2022,"$375,000",2,1
+"420 E Kingston Ave, Charlotte, NC 28203","2,779",Sold 03/01/2022,$1.43M,4,3
+"1315 East Blvd UNIT 519, Charlotte, NC 28203",714,Sold 02/25/2022,"$280,000",1,1
+"1315 East Blvd UNIT 520, Charlotte, NC 28203",714,Sold 02/18/2022,"$260,000",1,1
+"2018 Euclid Ave, Charlotte, NC 28203","2,184",Sold 02/18/2022,"$870,000",3,4
+"2200 Lyndhurst Ave UNIT 203, Charlotte, NC 28203",970,Sold 01/31/2022,"$385,000",2,2
+"1315 East Blvd UNIT 425, Charlotte, NC 28203",976,Sold 01/27/2022,"$280,000",1,1
+"413 McDonald Ave, Charlotte, NC 28203","3,407",Sold 01/19/2022,$1.10M,4,4
+"1609 Park Rd, Charlotte, NC 28203","3,159",Sold 01/18/2022,$1.15M,4,3
+"810 Ideal Way, Charlotte, NC 28203","2,858",Sold 01/18/2022,$1.18M,3,5
+"611 Olmsted Park Pl APT B, Charlotte, NC 28203",884,Sold 01/14/2022,"$358,000",2,2
+"325 McDonald Ave, Charlotte, NC 28203","2,907",Sold 01/06/2022,$1.24M,4,3
+"210 Magnolia Ave TOWNHOUSE 1, Charlotte, NC 28203","1,572",Sold 01/06/2022,"$572,000",3,3
+"210 Magnolia Ave, Charlotte, NC 28203","1,572",Sold 01/06/2022,"$572,000",3,3
+"1934 Scott Ave, Charlotte, NC 28203","2,826",Sold 01/05/2022,"$850,000",4,4
+"812 Ideal Way, Charlotte, NC 28203","2,815",Sold 12/30/2021,$1.20M,3,5
+"1904 Dilworth Rd E, Charlotte, NC 28203","5,072",Sold 12/29/2021,$1.60M,4,4
+"625 Ideal Way, Charlotte, NC 28203",816,Sold 12/23/2021,"$475,000",2,1
+"416 E Tremont Ave, Charlotte, NC 28203","1,450",Sold 12/22/2021,"$735,000",3,2.5
+"2125 Southend Dr APT 445, Charlotte, NC 28203",546,Sold 12/21/2021,"$232,000",1,1
+"400 E Kingston Ave, Charlotte, NC 28203","2,850",Sold 12/17/2021,$1.08M,4,3
+"2145 Kirkwood Ave APT 2, Charlotte, NC 28203",565,Sold 12/17/2021,"$268,000",1,1
+"301 E Tremont Ave APT 208, Charlotte, NC 28203","1,148",Sold 12/17/2021,"$420,000",2,2
+"301 E Tremont Ave E #208, Charlotte, NC 28203","1,102",Sold 12/17/2021,"$420,000",2,2
+"2316 Winthrop Ave, Charlotte, NC 28203",951,Sold 12/10/2021,$1.72M,2,1
+"1942 Scott Ave, Charlotte, NC 28203","2,830",Sold 12/10/2021,"$865,000",4,4
+"1313 Lexington Ave, Charlotte, NC 28203","4,046",Sold 12/07/2021,$1.37M,4,5
+"2209 Sumner Green Ave APT U, Charlotte, NC 28203","1,106",Sold 12/06/2021,"$380,000",2,2
+"2114 Sarah Marks Ave, Charlotte, NC 28203","2,049",Sold 11/30/2021,"$870,000",4,3
+"420 Magnolia Ave, Charlotte, NC 28203","1,730",Sold 11/29/2021,"$775,000",3,3
+"426 Magnolia Ave, Charlotte, NC 28203","2,590",Sold 11/23/2021,$1.08M,3,3
+"2085 Atherton Heights Ln, Charlotte, NC 28203","1,002",Sold 11/22/2021,"$308,000",2,2
+"2145 Kirkwood Ave APT 3, Charlotte, NC 28203",597,Sold 11/19/2021,"$265,000",1,1
+"1315 East Blvd UNIT 533, Charlotte, NC 28203",784,Sold 11/18/2021,"$238,000",1,1
+"2026 Atherton Heights Ln, Charlotte, NC 28203","1,080",Sold 11/17/2021,"$373,000",2,2
+"843 Ideal Way #11, Charlotte, NC 28203",594,Sold 11/17/2021,"$260,000",1,1
+"705 McDonald Ave, Charlotte, NC 28203","4,681",Sold 11/16/2021,$1.41M,5,4
+"2304 Winthrop Ave, Charlotte, NC 28203","1,228",Sold 11/15/2021,"$600,000",2,1.5
+"2112 Park Rd, Charlotte, NC 28203","2,400",Sold 11/12/2021,$1.20M,4,4
+"1829 Kenilworth Ave UNIT 210, Charlotte, NC 28203",700,Sold 11/10/2021,"$225,000",1,1
+"928 Ideal Way, Charlotte, NC 28203","2,038",Sold 11/09/2021,$1.15M,3,3
+"1829 Kenilworth Ave UNIT 110, Charlotte, NC 28203",700,Sold 11/09/2021,"$232,000",1,1
+"1829 Kenilworth Ave UNIT 205, Charlotte, NC 28203","1,092",Sold 11/05/2021,"$362,500",2,2
+"2112 Kirkwood Ave, Charlotte, NC 28203","2,124",Sold 11/05/2021,"$650,000",4,--
+"1829 Kenilworth Ave #205B, Charlotte, NC 28203","1,069",Sold 11/05/2021,"$362,500",2,2
+"628 Dorothy Dr, Charlotte, NC 28203","1,784",Sold 11/02/2021,"$926,500",3,3
+"1315 East Blvd UNIT 204, Charlotte, NC 28203",860,Sold 11/01/2021,"$250,000",1,1
+"313 McDonald Ave, Charlotte, NC 28203","3,680",Sold 10/28/2021,$1.41M,5,4
+"2125 Southend Dr APT 345, Charlotte, NC 28203",546,Sold 10/28/2021,"$225,900",1,1
+"1619 Lyndhurst Ave, Charlotte, NC 28203","2,419",Sold 10/27/2021,$1.13M,3,3
+"1315 East Blvd UNIT 529, Charlotte, NC 28203",742,Sold 10/26/2021,"$237,000",1,1
+"1418 Lexington Ave, Charlotte, NC 28203","1,898",Sold 10/19/2021,"$685,000",2,1.5
+"2232 Lyndhurst Ave, Charlotte, NC 28203","1,802",Sold 10/18/2021,"$630,000",3,3
+"2005 Charlotte Dr, Charlotte, NC 28203","1,624",Sold 10/14/2021,"$675,000",3,2
+"632 Ideal Way, Charlotte, NC 28209",912,Sold 10/14/2021,"$475,000",3,1
+"300 Magnolia Ave UNIT 205, Charlotte, NC 28203",976,Sold 10/13/2021,"$330,000",2,2
+"2072 Atherton Heights Ln, Charlotte, NC 28203","1,140",Sold 10/12/2021,"$367,500",2,2
+"2125 Southend Dr APT 107, Charlotte, NC 28203",887,Sold 10/12/2021,"$315,000",1,1
+"401 Mather Green Ave APT C, Charlotte, NC 28203",901,Sold 10/07/2021,"$350,000",2,2
+"2209 Sumner Green Ave APT C, Charlotte, NC 28203",900,Sold 10/07/2021,"$350,000",2,2
+"525 Olmsted Park Pl APT H, Charlotte, NC 28203","1,091",Sold 10/06/2021,"$373,000",2,2
+"935 Romany Rd, Charlotte, NC 28203","2,689",Sold 10/04/2021,$1.18M,3,3
+"1315 East Blvd UNIT 504, Charlotte, NC 28203",981,Sold 10/01/2021,"$265,000",1,1
+"821 Berkeley Ave, Charlotte, NC 28203","4,090",Sold 09/27/2021,$1.78M,4,3.5
+"1315 East Blvd UNIT 536, Charlotte, NC 28203",730,Sold 09/27/2021,"$226,500",1,1
+"1903 Kenilworth Ave UNIT 102, Charlotte, NC 28203",667,Sold 09/27/2021,"$207,000",1,1
+"531 Dilworth Mews Ct, Charlotte, NC 28203","3,698",Sold 09/23/2021,$1.00M,5,4
+"1903 Kenilworth Ave UNIT 102A, Charlotte, NC 28203",654,Sold 09/23/2021,"$207,000",1,1
+"538 Olmsted Park Pl, Charlotte, NC 28203","1,699",Sold 09/14/2021,"$600,000",3,3
+"513 Iverson Way, Charlotte, NC 28203","2,942",Sold 09/10/2021,$1.07M,5,4
+"2083 Atherton Heights Ln, Charlotte, NC 28203","1,089",Sold 09/08/2021,"$340,000",2,2
+"2125 Southend Dr APT 127, Charlotte, NC 28203","1,001",Sold 09/08/2021,"$325,000",1,1
+"2125 Southend Dr APT 124, Charlotte, NC 28203","1,010",Sold 09/08/2021,"$325,000",1,1
+"425 E Tremont Ave, Charlotte, NC 28203","2,355",Sold 09/07/2021,$1.11M,5,4
+"2125 Southend Dr APT 401, Charlotte, NC 28203",909,Sold 09/02/2021,"$303,000",Studio,--
+"1903 Kenilworth Ave UNIT 101, Charlotte, NC 28203",775,Sold 09/02/2021,"$258,000",1,1
+"1903 Kenilworth Ave UNIT 101A, Charlotte, NC 28203",805,Sold 09/02/2021,"$258,000",1,1
+"1922 Ewing Ave, Charlotte, NC 28203","3,627",Sold 08/31/2021,$1.51M,4,4
+"1712 Lyndhurst Ave, Charlotte, NC 28203","1,816",Sold 08/31/2021,"$926,000",3,2
+"2125 Southend Dr APT 436, Charlotte, NC 28203",728,Sold 08/31/2021,"$255,000",1,1
+"2040 Atherton Heights Ln, Charlotte, NC 28203","1,089",Sold 08/30/2021,"$339,500",2,2
+"1920 Euclid Ave, Charlotte, NC 28203","2,268",Sold 08/30/2021,"$890,000",3,4
+"2040 Atherton Heights Ln #21, Charlotte, NC 28203",993,Sold 08/30/2021,"$339,500",2,2
+"410 Meacham St, Charlotte, NC 28203","1,653",Sold 08/27/2021,"$690,000",3,3
+"528 McDonald Ave, Charlotte, NC 28203","3,096",Sold 08/27/2021,$1.70M,4,5
+"2108 Dilworth Rd, Charlotte, NC 28203","3,360",Sold 08/26/2021,$1.36M,5,5
+"301 E Tremont Ave APT 207, Charlotte, NC 28203",712,Sold 08/23/2021,"$299,000",1,1
+"301 E Tremont Ave E APT 207, Charlotte, NC 28203",712,Sold 08/23/2021,"$299,000",1,1
+"616 Dorothy Dr, Charlotte, NC 28203","1,662",Sold 08/20/2021,"$674,000",3,2
+"1903 Kenilworth Ave UNIT 104, Charlotte, NC 28203",847,Sold 08/20/2021,"$275,500",1,1
+"300 Magnolia Ave UNIT 206, Charlotte, NC 28203",970,Sold 08/20/2021,"$393,500",2,2
+"424 Mather Green Ave APT M, Charlotte, NC 28203",906,Sold 08/18/2021,"$357,500",2,2
+"2133 Southend Dr APT 307, Charlotte, NC 28203","1,087",Sold 08/16/2021,"$295,000",1,1
+"1903 Kenilworth Ave UNIT 202, Charlotte, NC 28203","1,057",Sold 08/16/2021,"$365,000",2,2
+"1315 East Blvd UNIT 306, Charlotte, NC 28203","1,047",Sold 08/13/2021,"$335,000",2,2
+"1827 Ewing Ave, Charlotte, NC 28203","1,633",Sold 08/12/2021,"$939,000",3,2
+"2015 Dilworth Rd W, Charlotte, NC 28203","3,322",Sold 08/10/2021,$1.60M,4,4
+"2104 Park Rd, Charlotte, NC 28203","3,939",Sold 08/06/2021,$1.33M,8,--
+"1315 East Blvd UNIT 214, Charlotte, NC 28203",647,Sold 08/04/2021,"$220,000",1,1
+"517 E Kingston Ave, Charlotte, NC 28203","3,226",Sold 08/03/2021,$1.35M,5,3
+"1829 Kenilworth Ave UNIT 110B, Charlotte, NC 28203",697,Sold 08/03/2021,"$232,000",1,1
+"1921 Kenilworth Ave, Charlotte, NC 28203","1,804",Sold 08/02/2021,"$650,000",3,3
+"1315 East Blvd UNIT 718, Charlotte, NC 28203","1,372",Sold 08/02/2021,"$382,000",2,2
+"520 E Tremont Ave, Charlotte, NC 28203","2,624",Sold 07/30/2021,"$985,000",4,4
+"1315 East Blvd UNIT 511, Charlotte, NC 28203",938,Sold 07/30/2021,"$285,000",1,1
+"922 Magnolia Ave, Charlotte, NC 28203","3,025",Sold 07/29/2021,$1.48M,4,4
+"1921 Park Rd, Charlotte, NC 28203","1,512",Sold 07/26/2021,"$650,000",2,2
+"2125 Southend Dr APT 344, Charlotte, NC 28203",817,Sold 07/26/2021,"$290,000",1,1
+"2131 Kirkwood Ave #3, Charlotte, NC 28203",681,Sold 07/23/2021,"$170,000",1,1
+"2133 Southend Dr APT 310, Charlotte, NC 28203",884,Sold 07/23/2021,"$280,000",1,1
+"2240 Lyndhurst Ave, Charlotte, NC 28203","1,624",Sold 07/23/2021,"$549,000",3,3
+"2133 Southend Dr, Charlotte, NC 28203",843,Sold 07/23/2021,"$280,000",1,1
+"733 Ideal Way, Charlotte, NC 28203","3,380",Sold 07/19/2021,$1.15M,4,3
+"818 E Park Ave, Charlotte, NC 28203","2,738",Sold 07/19/2021,$1.18M,4,4
+"907 E Worthington Ave, Charlotte, NC 28203","3,549",Sold 07/16/2021,$1.23M,4,3
+"415 Mather Green Ave APT N, Charlotte, NC 28203","1,300",Sold 07/15/2021,"$350,000",2,2
+"1829 Kenilworth Ave UNIT 304, Charlotte, NC 28203",840,Sold 07/15/2021,"$262,000",1,1
+"415 Mather Green Ave, Charlotte, NC 28203",915,Sold 07/14/2021,"$350,000",2,2
+"2042 Atherton Heights Ln, Charlotte, NC 28203","1,161",Sold 07/13/2021,"$320,000",2,2
+"653 Ideal Way, Charlotte, NC 28203","4,258",Sold 07/12/2021,$1.36M,5,5
+"1903 Kenilworth Ave UNIT 105, Charlotte, NC 28203","1,071",Sold 07/09/2021,"$345,000",2,2
+"806 Ideal Way, Charlotte, NC 28203","2,915",Sold 07/08/2021,"$915,000",3,4
+"806 Ideal Way #0, Charlotte, NC 28203","2,901",Sold 07/08/2021,"$915,000",3,5
+"824 Brookside Ave, Charlotte, NC 28203","1,859",Sold 07/07/2021,"$596,500",3,2
+"2125 Southend Dr APT 404, Charlotte, NC 28203",897,Sold 07/06/2021,"$291,000",1,1
+"741 Ideal Way, Charlotte, NC 28203","4,430",Sold 06/30/2021,$1.64M,5,5
+"1903 Kenilworth Ave UNIT 307, Charlotte, NC 28203",846,Sold 06/29/2021,"$260,000",1,1
+"2068 Euclid Ave, Charlotte, NC 28203",956,Sold 06/29/2021,"$278,000",1,1
+"1903 Kenilworth Ave UNIT 209, Charlotte, NC 28203",770,Sold 06/29/2021,"$240,000",1,1
+"1903 Kenilworth Ave UNIT 209A, Charlotte, NC 28203",753,Sold 06/29/2021,"$240,000",1,1
+"301 E Tremont Ave APT 108, Charlotte, NC 28203","1,080",Sold 06/25/2021,"$400,000",2,2
+"301 E Tremont Ave E APT 108, Charlotte, NC 28203","1,042",Sold 06/25/2021,"$400,000",2,2
+"529 McDonald Ave, Charlotte, NC 28203","4,144",Sold 06/23/2021,$1.62M,5,5
+"420 E Park Ave, Charlotte, NC 28203","3,602",Sold 06/23/2021,$1.45M,5,4
+"1020 Isleworth Ave, Charlotte, NC 28203","3,247",Sold 06/21/2021,$1.40M,4,4
+"749 Magnolia Ave #208, Charlotte, NC 28203","1,228",Sold 06/17/2021,"$405,000",2,3
+"415 Mather Green Ave APT E, Charlotte, NC 28203","1,075",Sold 06/16/2021,"$327,000",2,2
+"2022 Euclid Ave, Charlotte, NC 28203","1,543",Sold 06/14/2021,"$510,000",2,3
+"648 Diana Dr, Charlotte, NC 28203","1,000",Sold 06/11/2021,$1.50M,3,5.5
+"1916 Dilworth Rd E, Charlotte, NC 28203","3,071",Sold 06/11/2021,$1.20M,3,5
+"417 Magnolia Ave, Charlotte, NC 28203","1,115",Sold 06/09/2021,"$923,000",4,3
+"925 Ideal Way, Charlotte, NC 28203","1,885",Sold 06/07/2021,"$832,000",3,2
+"1829 Kenilworth Ave UNIT 202, Charlotte, NC 28203","1,071",Sold 06/07/2021,"$340,000",2,2
+"604 E Tremont Ave, Charlotte, NC 28203","3,220",Sold 06/04/2021,"$905,000",5,3
+"2149 Kirkwood Ave #6, Charlotte, NC 28203",895,Sold 06/04/2021,"$350,000",2,1
+"2308 Springdale Ave, Charlotte, NC 28203","3,690",Sold 06/03/2021,$1.40M,4,3
+"1700 Dilworth Rd, Charlotte, NC 28203","3,858",Sold 06/03/2021,$1.60M,4,5
+"1700 Dilworth Rd, Charlotte, NC 28203","4,752",Sold 06/03/2021,$1.60M,4,5
+"1829 Kenilworth Ave UNIT 302, Charlotte, NC 28203","1,062",Sold 06/03/2021,"$350,000",2,2
+"1829 Kenilworth Ave UNIT 204, Charlotte, NC 28203",844,Sold 06/02/2021,"$257,000",1,1
+"1315 East Blvd UNIT 821, Charlotte, NC 28203","1,225",Sold 06/01/2021,"$370,000",2,2
+"1716 Lyndhurst Ave, Charlotte, NC 28203","2,886",Sold 05/28/2021,$1.17M,4,4
+"1315 East Blvd UNIT 328, Charlotte, NC 28203",812,Sold 05/28/2021,"$215,000",1,1
+"2021 Dilworth Rd W, Charlotte, NC 28203","2,492",Sold 05/28/2021,$1.38M,4,5
+"516 McDonald Ave, Charlotte, NC 28203","2,227",Sold 05/27/2021,"$899,000",3,3
+"2001 Dilworth Rd W, Charlotte, NC 28203","2,680",Sold 05/27/2021,$1.28M,4,4
+"2021 Dilworth Rd, Charlotte, NC 28203","3,074",Sold 05/27/2021,$1.38M,4,5
+"2118 Sarah Marks Ave, Charlotte, NC 28203","1,746",Sold 05/27/2021,"$684,000",3,2
+"1709 Dilworth Rd W APT B, Charlotte, NC 28203","2,293",Sold 05/27/2021,"$745,000",3,4
+"812 E Kingston Ave, Charlotte, NC 28203","1,509",Sold 05/27/2021,"$750,000",3,2
+"2236 Lyndhurst Ave, Charlotte, NC 28203","1,589",Sold 05/27/2021,"$569,999",3,3
+"933 Romany Rd, Charlotte, NC 28203","3,322",Sold 05/26/2021,$1.30M,4,4
+"287 McDonald Ave, Charlotte, NC 28203","1,230",Sold 05/26/2021,"$402,500",2,2
+"1228 S Minter Pl #11, Charlotte, NC 28203","1,778",Sold 05/26/2021,"$673,510",3,4
+"2087 Atherton Heights Ln, Charlotte, NC 28203","1,005",Sold 05/25/2021,"$311,000",2,2
+"1234 E Worthington Ave, Charlotte, NC 28203","1,952",Sold 05/24/2021,"$800,000",4,2
+"1315 East Blvd UNIT 322, Charlotte, NC 28203",728,Sold 05/24/2021,"$240,000",1,1
+"301 E Tremont Ave APT 107, Charlotte, NC 28203","1,042",Sold 05/24/2021,"$395,000",2,2
+"301 E Tremont Ave E #107, Charlotte, NC 28203","1,080",Sold 05/24/2021,"$395,000",2,2
+"420 E Tremont Ave, Charlotte, NC 28203","1,407",Sold 05/21/2021,"$685,000",2,2
+"753 Magnolia Ave #206, Charlotte, NC 28203","1,235",Sold 05/21/2021,"$389,800",2,3
+"417 Olmsted Park Pl APT E, Charlotte, NC 28203",900,Sold 05/21/2021,"$315,000",2,2
+"525 Olmsted Park Pl APT S, Charlotte, NC 28203",707,Sold 05/19/2021,"$200,000",1,1
+"1315 East Blvd UNIT 819, Charlotte, NC 28203","1,023",Sold 05/18/2021,"$320,000",2,2
+"301 E Tremont Ave APT 319, Charlotte, NC 28203","1,400",Sold 05/14/2021,"$502,500",2,2
+"301 E Tremont Ave E APT 319, Charlotte, NC 28203","1,400",Sold 05/14/2021,"$502,500",2,2
+"624 Diana Dr, Charlotte, NC 28203","4,391",Sold 05/13/2021,$1.30M,4,5
+"745 Magnolia Ave #210, Charlotte, NC 28203",1,Sold 05/12/2021,"$370,000",3,2.5
+"1315 East Blvd UNIT 503, Charlotte, NC 28203","1,050",Sold 05/12/2021,"$338,000",2,2
+"745 Magnolia Ave, Charlotte, NC 28203","1,435",Sold 05/12/2021,"$370,000",3,3
+"1315 East Blvd UNIT 530, Charlotte, NC 28203","1,485",Sold 05/10/2021,"$398,000",2,2
+"2220 Lyndhurst Ave, Charlotte, NC 28203","1,577",Sold 05/07/2021,"$559,000",3,3
+"1829 Kenilworth Ave UNIT 102, Charlotte, NC 28203",667,Sold 05/03/2021,"$214,000",1,1
+"1300 Dilworth Rd, Charlotte, NC 28203","4,925",Sold 04/30/2021,$1.85M,5,5
+"301 E Tremont Ave APT 304, Charlotte, NC 28203","1,770",Sold 04/30/2021,"$555,000",3,3
+"301 E Tremont Ave E APT 307, Charlotte, NC 28203",922,Sold 04/30/2021,"$327,000",1,1.5
+"301 E Tremont Ave E #304, Charlotte, NC 28203","1,770",Sold 04/30/2021,"$555,000",3,3
+"1829 Kenilworth Ave UNIT 102B, Charlotte, NC 28203",649,Sold 04/30/2021,"$214,000",1,1
+"2210 Sumner Green Ave APT E, Charlotte, NC 28203",894,Sold 04/29/2021,"$316,500",2,2
+"301 E Tremont Ave #307, Charlotte, NC 28203",919,Sold 04/29/2021,"$327,000",1,2
+"409 Mather Green Ave APT E, Charlotte, NC 28203",900,Sold 04/27/2021,"$326,000",2,2
+"1315 East Blvd UNIT 419, Charlotte, NC 28203",669,Sold 04/27/2021,"$245,000",1,1
+"705 E Worthington Ave, Charlotte, NC 28203","2,529",Sold 04/26/2021,"$975,000",3,3
+"1945 Park Rd, Charlotte, NC 28203","1,380",Sold 04/26/2021,"$465,000",3,1
+"409 Mather Green Ave, Charlotte, NC 28203",906,Sold 04/26/2021,"$326,000",2,2
+"2212 Springdale Ave, Charlotte, NC 28203","3,906",Sold 04/22/2021,$1.38M,4,4
+"2025 Euclid Ave, Charlotte, NC 28203",725,Sold 04/20/2021,"$475,000",2,1
+"324 E Kingston Ave #C, Charlotte, NC 28203","1,600",Sold 04/16/2021,"$485,000",3,2
+"1231 S Minter Pl #22, Charlotte, NC 28203","1,816",Sold 04/16/2021,"$640,000",3,4
+"324 E Kingston Ave, Charlotte, NC 28203","1,530",Sold 04/16/2021,"$485,000",3,2
+"2137 Dilworth Rd, Charlotte, NC 28203","4,197",Sold 04/13/2021,$1.35M,4,4
+"2147 Park Rd, Charlotte, NC 28203","2,866",Sold 04/13/2021,"$650,000",--,--
+"629 E Tremont Ave, Charlotte, NC 28203","3,616",Sold 04/13/2021,"$227,500",1,1
+"2125 Southend Dr APT 125, Charlotte, NC 28203",695,Sold 04/09/2021,"$220,000",1,1
+"1315 East Blvd UNIT 321, Charlotte, NC 28203",674,Sold 04/09/2021,"$190,000",1,1
+"2133 Southend Dr APT 305, Charlotte, NC 28203","1,029",Sold 04/09/2021,"$275,000",1,1
+"2125 Southend Dr APT 432, Charlotte, NC 28203",688,Sold 04/07/2021,"$245,000",1,1
+"1315 East Blvd UNIT 712, Charlotte, NC 28203","1,040",Sold 04/07/2021,"$329,900",2,2
+"317 E Tremont Ave #304, Charlotte, NC 28203","1,400",Sold 04/06/2021,"$540,000",3,2
+"301 E Tremont Ave APT 204, Charlotte, NC 28203","1,404",Sold 04/01/2021,"$470,000",38,2
+"300 Magnolia Ave UNIT 302, Charlotte, NC 28203",651,Sold 04/01/2021,"$225,000",1,1
+"301 E Tremont Ave E #204, Charlotte, NC 28203","1,367",Sold 04/01/2021,"$470,000",2,2
+"508 Iverson Way, Charlotte, NC 28203",--,Sold 03/31/2021,"$500,000",--,--
+"801 Romany Rd, Charlotte, NC 28203","3,454",Sold 03/31/2021,$1.33M,4,5
+"755 Magnolia Ave #205, Charlotte, NC 28203","1,521",Sold 03/31/2021,"$400,000",3,2.5
+"816 Ideal Way, Charlotte, NC 28203","2,815",Sold 03/31/2021,"$850,000",3,5
+"755 Magnolia Ave, Charlotte, NC 28203","1,650",Sold 03/31/2021,"$400,000",3,3
+"1917 Euclid Ave, Charlotte, NC 28203","2,470",Sold 03/30/2021,$1.25M,4,3
+"2018 Dilworth Rd, Charlotte, NC 28203","4,968",Sold 03/30/2021,$1.73M,5,5
+"1903 Kenilworth Ave UNIT 110, Charlotte, NC 28203",686,Sold 03/30/2021,"$220,000",1,1
+"281 McDonald Ave, Charlotte, NC 28203","1,217",Sold 03/29/2021,"$400,000",2,2
+"2018 Dilworth Rd W, Charlotte, NC 28203","4,626",Sold 03/29/2021,$1.73M,5,5
+"1903 Kenilworth Ave UNIT 110A, Charlotte, NC 28203",686,Sold 03/29/2021,"$220,000",1,1
+"2210 Sumner Green Ave APT Q, Charlotte, NC 28203","1,087",Sold 03/26/2021,"$335,000",2,2
+"2215 Dilworth Rd W, Charlotte, NC 28203","1,873",Sold 03/19/2021,"$910,000",3,3
+"1315 East Blvd UNIT 506, Charlotte, NC 28203","1,054",Sold 03/19/2021,"$324,900",2,2
+"2125 Southend Dr APT 405, Charlotte, NC 28203",887,Sold 03/18/2021,"$277,000",1,1
+"729 Berkeley Ave, Charlotte, NC 28203","3,435",Sold 03/15/2021,$1.30M,4,3
+"1315 East Blvd UNIT 230, Charlotte, NC 28203",939,Sold 03/15/2021,"$265,000",1,1
+"1315 East Blvd UNIT 436, Charlotte, NC 28203",728,Sold 03/12/2021,"$207,000",1,1
+"301 E Tremont Ave APT 305, Charlotte, NC 28203",837,Sold 03/10/2021,"$320,000",1,1.5
+"301 E Tremont Ave E #305, Charlotte, NC 28203",846,Sold 03/10/2021,"$320,000",1,2
+"301 E Tremont Ave #305, Charlotte, NC 28203",815,Sold 03/10/2021,"$320,000",1,2
+"1915 Park Rd, Charlotte, NC 28203","1,720",Sold 03/09/2021,"$776,000",2,2
+"1115 E Worthington Ave #B, Charlotte, NC 28203","1,007",Sold 03/09/2021,"$340,000",2,1
+"2125 Southend Dr APT 234, Charlotte, NC 28203",542,Sold 03/09/2021,"$214,000",1,1
+"1315 East Blvd UNIT 437, Charlotte, NC 28203","1,701",Sold 03/08/2021,"$375,000",2,2
+"1315 East Blvd UNIT 518, Charlotte, NC 28203",702,Sold 03/04/2021,"$215,000",1,1
+"2110 Sarah Marks Ave, Charlotte, NC 28203","2,072",Sold 02/25/2021,"$855,000",4,2
+"2125 Southend Dr APT 425, Charlotte, NC 28203",682,Sold 02/24/2021,"$247,000",1,1
+"329 E Worthington Ave, Charlotte, NC 28203","2,583",Sold 02/22/2021,$1.06M,4,3
+"2228 Springdale Ave, Charlotte, NC 28203","3,450",Sold 02/19/2021,$1.25M,5,3.5
+"2305 Winthrop Ave, Charlotte, NC 28203","5,386",Sold 02/19/2021,$1.45M,5,6
+"1930 Scott Ave, Charlotte, NC 28203","2,826",Sold 02/18/2021,"$867,500",4,4
+"299 McDonald Ave, Charlotte, NC 28203","1,705",Sold 02/17/2021,"$490,000",3,3
+"1315 East Blvd UNIT 522, Charlotte, NC 28203",717,Sold 02/15/2021,"$215,000",1,1
+"214 Magnolia Ave #2, Charlotte, NC 28203","1,517",Sold 02/09/2021,"$499,900",2,3
+"214 Magnolia Ave #TOWNHOUSE, Charlotte, NC 28203",--,Sold 02/09/2021,"$499,900",--,--
+"1924 Park Rd, Charlotte, NC 28203","2,569",Sold 02/04/2021,$1.08M,5,4
+"1903 Kenilworth Ave UNIT 304, Charlotte, NC 28203",846,Sold 01/25/2021,"$250,000",1,1
+"2210 Sumner Green Ave APT P, Charlotte, NC 28203",703,Sold 01/20/2021,"$221,500",1,1
+"301 E Tremont Ave E #309, Charlotte, NC 28203","1,462",Sold 01/20/2021,"$465,000",3,3
+"301 E Tremont Ave #309, Charlotte, NC 28203","1,459",Sold 01/20/2021,"$465,000",3,3
+"2121 Dilworth Rd W, Charlotte, NC 28203","2,554",Sold 01/15/2021,$1.00M,3,3
+"2210 Sumner Green Ave APT D, Charlotte, NC 28203",707,Sold 01/15/2021,"$213,000",1,1
+"2073 Atherton Heights Ln, Charlotte, NC 28203","1,154",Sold 01/08/2021,"$326,500",2,2
+"1315 East Blvd UNIT 426, Charlotte, NC 28203",801,Sold 01/06/2021,"$210,000",1,1
+"414 Olmsted Park Pl, Charlotte, NC 28203","1,685",Sold 12/30/2020,"$665,000",3,3
+"1315 East Blvd UNIT 434, Charlotte, NC 28203",634,Sold 12/30/2020,"$199,900",1,1
+"1214 S Minter Pl #5, Charlotte, NC 28203","1,816",Sold 12/30/2020,"$648,550",3,4
+"1607 Dilworth Rd W, Charlotte, NC 28203","3,154",Sold 12/23/2020,$1.05M,4,3
+"1215 S Minter Pl #27, Charlotte, NC 28203","1,816",Sold 12/22/2020,"$669,000",3,4
+"2125 Southend Dr APT 438, Charlotte, NC 28203","1,078",Sold 12/21/2020,"$345,000",2,2
+"1315 East Blvd UNIT 528, Charlotte, NC 28203",762,Sold 12/18/2020,"$205,000",1,1
+"1315 East Blvd UNIT 423, Charlotte, NC 28203",735,Sold 12/18/2020,"$195,000",1,1
+"412 E Kingston Ave, Charlotte, NC 28203","4,200",Sold 12/17/2020,$1.40M,3,4
+"644 Diana Dr, Charlotte, NC 28203","1,425",Sold 12/14/2020,"$505,000",2,2
+"2024 Atherton Heights Ln, Charlotte, NC 28203","1,089",Sold 12/10/2020,"$260,000",2,2
+"2200 Lyndhurst Ave UNIT 305, Charlotte, NC 28203",647,Sold 12/10/2020,"$232,500",1,1
+"2125 Southend Dr APT 431, Charlotte, NC 28203",592,Sold 12/09/2020,"$202,000",1,1
+"2108 S Boulevard Aa1, Charlotte, NC 28203","1,475",Sold 12/09/2020,"$605,000",1,1
+"501 E Tremont Ave, Charlotte, NC 28203","2,630",Sold 12/03/2020,"$939,000",3,3
+"1230 E Worthington Ave, Charlotte, NC 28203","1,721",Sold 11/30/2020,"$826,000",4,2
+"2018 Dilworth Rd, Charlotte, NC 28203","3,553",Sold 11/30/2020,"$950,000",4,4
+"424 Mather Green Ave APT F, Charlotte, NC 28203","1,075",Sold 11/30/2020,"$334,000",2,2
+"222 Magnolia Ave TOWNHOUSE 4, Charlotte, NC 28203","1,572",Sold 11/30/2020,"$497,000",2,2.5
+"2018 Dilworth Rd E #16, Charlotte, NC 28203","3,553",Sold 11/30/2020,"$950,000",4,4
+"222 Magnolia Ave, Charlotte, NC 28203","1,554",Sold 11/30/2020,"$497,000",3,3
+"2209 Sumner Green Ave #0, Charlotte, NC 28203",883,Sold 11/25/2020,"$312,000",2,2
+"2209 Sumner Green Ave APT O, Charlotte, NC 28203",904,Sold 11/24/2020,"$312,000",2,2
+"525 Meacham St, Charlotte, NC 28203","1,500",Sold 11/23/2020,"$530,000",3,3
+"401 Meacham St, Charlotte, NC 28203","2,356",Sold 11/23/2020,"$838,000",3,3
+"523 E Kingston Ave, Charlotte, NC 28203","3,274",Sold 11/18/2020,$1.08M,3,3
+"820 E Kingston Ave, Charlotte, NC 28203","2,048",Sold 11/18/2020,"$600,000",2,2.5
+"301 E Tremont Ave APT 201, Charlotte, NC 28203","1,013",Sold 11/17/2020,"$359,000",2,2
+"301 E Tremont Ave E #201, Charlotte, NC 28203","1,013",Sold 11/17/2020,"$359,000",2,2
+"828 E Worthington Ave, Charlotte, NC 28203","2,188",Sold 11/16/2020,"$810,000",3,2
+"2108 S Boulevard F4, Charlotte, NC 28203","1,302",Sold 11/10/2020,"$500,000",2,1
+"1315 East Blvd UNIT 537, Charlotte, NC 28203","1,701",Sold 11/05/2020,"$385,700",2,2
+"1903 Kenilworth Ave UNIT 301, Charlotte, NC 28203","1,187",Sold 11/05/2020,"$365,000",2,2
+"515 E Worthington Ave, Charlotte, NC 28203","2,667",Sold 11/04/2020,"$899,000",4,3
+"1215 E Worthington Ave, Charlotte, NC 28203","3,228",Sold 11/04/2020,$1.22M,5,3
+"2056 Euclid Ave, Charlotte, NC 28203","1,430",Sold 10/30/2020,"$485,000",2,3
+"301 E Tremont Ave APT 214, Charlotte, NC 28203","1,080",Sold 10/29/2020,"$360,000",2,2
+"301 E Tremont Ave E #214, Charlotte, NC 28203","1,023",Sold 10/29/2020,"$360,000",2,2
+"301 E Tremont Ave #214, Charlotte, NC 28203","1,023",Sold 10/29/2020,"$360,000",2,2
+"2125 Southend Dr APT 407, Charlotte, NC 28203",887,Sold 10/28/2020,"$290,000",1,1
+"1315 East Blvd UNIT 411, Charlotte, NC 28203",946,Sold 10/27/2020,"$243,000",1,1
+"1633 Dilworth Rd W, Charlotte, NC 28203","6,121",Sold 10/23/2020,$2.10M,5,6
+"2125 Southend Dr APT 109, Charlotte, NC 28203","1,110",Sold 10/23/2020,"$394,000",2,2
+"1915 Lyndhurst Ave, Charlotte, NC 28203","3,780",Sold 10/21/2020,$1.18M,4,4
+"515 E Kingston Ave, Charlotte, NC 28203","2,855",Sold 10/21/2020,$1.18M,4,5
+"295 McDonald Ave, Charlotte, NC 28203","1,231",Sold 10/20/2020,"$400,000",2,2
+"913 Romany Rd, Charlotte, NC 28203","2,056",Sold 10/16/2020,"$763,000",3,2
+"2125 Southend Dr APT 347, Charlotte, NC 28203",570,Sold 10/16/2020,"$210,000",1,1
+"1916 Euclid Ave, Charlotte, NC 28203","2,543",Sold 10/16/2020,"$845,000",3,3.5
+"608 E Kingston Ave, Charlotte, NC 28203","2,597",Sold 10/15/2020,"$990,000",4,3
+"348 Magnolia Ave, Charlotte, NC 28203","1,783",Sold 10/15/2020,"$537,500",3,3
+"2125 Southend Dr APT 446, Charlotte, NC 28203",684,Sold 10/06/2020,"$220,000",1,1
+"807 Brookside Ave, Charlotte, NC 28203","1,717",Sold 10/02/2020,"$500,000",2,1
+"2145 Kirkwood Ave APT 4, Charlotte, NC 28203",580,Sold 10/02/2020,"$204,000",1,1
+"2145 Kirkwood Ave, Charlotte, NC 28203",565,Sold 10/02/2020,"$204,000",1,1
+"2001 Victorian Pl, Charlotte, NC 28203","1,740",Sold 10/01/2020,"$629,500",3,3
+"448 Iverson Way, Charlotte, NC 28203","4,649",Sold 09/30/2020,$1.44M,6,5
+"713 Brookside Ave, Charlotte, NC 28203","4,967",Sold 09/30/2020,$1.67M,4,4
+"2125 Southend Dr APT 133, Charlotte, NC 28203",695,Sold 09/30/2020,"$185,000",1,1
+"1829 Kenilworth Ave UNIT 201, Charlotte, NC 28203",953,Sold 09/30/2020,"$280,000",1,1
+"501 Olmsted Park Pl APT I, Charlotte, NC 28203",700,Sold 09/25/2020,"$212,500",1,1
+"424 Mather Green Ave APT D, Charlotte, NC 28203",719,Sold 09/23/2020,"$223,000",1,1
+"806 E Tremont Ave, Charlotte, NC 28203","1,676",Sold 09/22/2020,"$450,000",2,2
+"1950 Euclid Ave, Charlotte, NC 28203","2,180",Sold 09/22/2020,"$817,000",3,3
+"655 Dorothy Dr, Charlotte, NC 28203","3,292",Sold 09/21/2020,$1.19M,5,5
+"430 Iverson Way, Charlotte, NC 28203","1,631",Sold 09/17/2020,"$625,000",3,3
+"905 Romany Rd, Charlotte, NC 28203","3,277",Sold 09/16/2020,$1.00M,4,4
+"301 E Tremont Ave APT 306, Charlotte, NC 28203","1,051",Sold 09/16/2020,"$359,000",2,2
+"1701 Dilworth Road West 1, Charlotte, NC 28203","1,000",Sold 09/15/2020,"$290,000",2,1
+"301 E Tremont Ave E APT 306, Charlotte, NC 28203","1,051",Sold 09/15/2020,"$359,000",2,2
+"1701 Dilworth Rd W APT 1, Charlotte, NC 28203",977,Sold 09/15/2020,"$290,000",2,1
+"1709 Dilworth Rd #D, Charlotte, NC 28203","2,409",Sold 09/14/2020,"$725,000",3,3
+"1142 Buchanan St, Charlotte, NC 28203","1,755",Sold 09/14/2020,"$540,000",4,2
+"404 Olmsted Park Pl, Charlotte, NC 28203","2,183",Sold 09/11/2020,"$640,000",3,3
+"2007 Dilworth Rd E, Charlotte, NC 28203","2,499",Sold 09/11/2020,"$710,000",3,1
+"1315 East Blvd UNIT 325, Charlotte, NC 28203","1,000",Sold 09/11/2020,"$279,000",1,1
+"901 Romany Rd, Charlotte, NC 28203","2,343",Sold 09/10/2020,"$600,000",3,3
+"623 Olmsted Park Pl APT H, Charlotte, NC 28203",906,Sold 09/10/2020,"$315,000",2,2
+"218 Magnolia Ave #3, Charlotte, NC 28203","1,572",Sold 09/09/2020,"$465,000",2,3
+"2149 Kirkwood Ave APT 5, Charlotte, NC 28203",808,Sold 09/07/2020,"$230,000",1,1
+"2149 Kirkwood Ave APT 5, Charlotte, NC 28203",808,Sold 09/07/2020,"$230,000",1,1
+"417 Olmsted Park Pl APT C, Charlotte, NC 28203",967,Sold 09/04/2020,"$315,000",2,2
+"2125 Southend Dr APT 123, Charlotte, NC 28203","1,110",Sold 09/03/2020,"$325,600",2,2
+"417 Olmsted Park Pl APT D, Charlotte, NC 28203",909,Sold 09/03/2020,"$315,000",2,2
+"730 Brookside Ave, Charlotte, NC 28203","3,092",Sold 09/03/2020,$1.08M,3,4
+"657 Ideal Way, Charlotte, NC 28203","3,645",Sold 09/01/2020,$1.32M,5,4
+"500 McDonald Ave, Charlotte, NC 28203","6,298",Sold 08/31/2020,"$605,000",5,6
+"824 McDonald Ave, Charlotte, NC 28203","1,712",Sold 08/28/2020,"$712,500",3,2
+"2058 Atherton Heights Ln, Charlotte, NC 28203","1,119",Sold 08/27/2020,"$320,000",2,2
+"2088 Atherton Heights Ln, Charlotte, NC 28203","1,089",Sold 08/24/2020,"$320,000",2,2
+"1615 Springdale Ave, Charlotte, NC 28203","2,371",Sold 08/21/2020,"$715,000",3,3
+"728 Brookside Ave, Charlotte, NC 28203","2,937",Sold 08/17/2020,"$997,300",3,4
+"2252 Lyndhurst Ave, Charlotte, NC 28203","1,761",Sold 08/17/2020,"$499,000",3,3
+"1620 Dilworth Rd, Charlotte, NC 28203","2,591",Sold 08/14/2020,"$773,333",5,3
+"2078 Euclid Ave, Charlotte, NC 28203","1,224",Sold 08/14/2020,"$415,000",2,2
+"2078 Euclid Ave #11, Charlotte, NC 28203","1,202",Sold 08/14/2020,"$415,000",2,2
+"1701 Dilworth Road West 3, Charlotte, NC 28203",968,Sold 08/13/2020,"$290,000",2,1
+"1701 Dilworth Rd W APT 3, Charlotte, NC 28203",968,Sold 08/13/2020,"$290,000",2,1
+"763 Magnolia Ave #202, Charlotte, NC 28203","1,192",Sold 08/12/2020,"$375,000",2,3
+"517 E Worthington Ave, Charlotte, NC 28203",900,Sold 08/10/2020,"$592,000",2,1
+"1915 Ewing Ave, Charlotte, NC 28203","4,272",Sold 08/07/2020,$1.28M,5,5
+"2098 Euclid Ave, Charlotte, NC 28203","1,743",Sold 08/07/2020,"$520,000",3,3
+"413 E Tremont Ave, Charlotte, NC 28203","1,100",Sold 08/05/2020,"$505,000",2,1
+"331 E Tremont Ave, Charlotte, NC 28203","2,735",Sold 07/29/2020,"$850,000",3,3
+"2301 Springdale Ave, Charlotte, NC 28203","4,250",Sold 07/24/2020,$1.58M,5,5
+"2011 Park Rd, Charlotte, NC 28203","2,270",Sold 07/23/2020,"$925,000",4,3
+"800 McDonald Ave, Charlotte, NC 28203","1,496",Sold 07/22/2020,"$540,000",3,2
+"725 Ideal Way #1, Charlotte, NC 28203","2,355",Sold 07/21/2020,"$872,500",3,3
+"725 Ideal Way, Charlotte, NC 28203","2,355",Sold 07/20/2020,"$872,500",3,3
+"2133 Southend Dr APT 303, Charlotte, NC 28203","1,248",Sold 07/17/2020,"$265,600",1,1
+"1919 Lyndhurst Ave, Charlotte, NC 28203","3,166",Sold 07/16/2020,$1.19M,4,4
+"501 Olmsted Park Pl APT K, Charlotte, NC 28203","1,092",Sold 07/13/2020,"$330,000",2,2
+"636 Dorothy Dr, Charlotte, NC 28203","3,050",Sold 07/10/2020,$1.18M,5,4
+"700 E Worthington Ave, Charlotte, NC 28203","2,510",Sold 07/10/2020,"$905,000",3,3
+"400 McDonald Ave, Charlotte, NC 28203","3,636",Sold 07/09/2020,$1.09M,4,4
+"2082 Atherton Heights Ln, Charlotte, NC 28203","1,080",Sold 07/02/2020,"$289,000",2,2
+"639 Diana Dr, Charlotte, NC 28203","4,198",Sold 07/01/2020,$1.70M,5,5
+"415 Mather Green Ave APT C, Charlotte, NC 28203",713,Sold 07/01/2020,"$203,000",1,1
+"415 Mather Green Ave APT C, Charlotte, NC 28203",707,Sold 07/01/2020,"$203,000",1,1
+"2076 Euclid Ave, Charlotte, NC 28203",582,Sold 06/30/2020,"$215,000",1,1
+"2210 Sumner Green Ave APT M, Charlotte, NC 28203",752,Sold 06/29/2020,"$215,500",1,1
+"726 Brookside Ave, Charlotte, NC 28203","2,937",Sold 06/29/2020,"$975,000",3,4
+"726 Brookside Ave, Charlotte, NC 28203","2,937",Sold 06/29/2020,"$975,000",3,4
+"330 E Kingston Ave, Charlotte, NC 28203","3,924",Sold 06/24/2020,"$740,000",5,4
+"500 Magnolia Ave, Charlotte, NC 28203","4,606",Sold 06/23/2020,$1.23M,4,5
+"2028 Dilworth Rd W, Charlotte, NC 28203","3,019",Sold 06/23/2020,"$945,000",3,3
+"2131 Park Rd, Charlotte, NC 28203","1,483",Sold 06/16/2020,"$529,400",3,2
+"521 E Worthington Ave, Charlotte, NC 28203","1,227",Sold 06/12/2020,"$542,000",2,2
+"2019 Park Rd, Charlotte, NC 28203","2,604",Sold 06/11/2020,$1.00M,4,3
+"2125 Southend Dr APT 148, Charlotte, NC 28203",695,Sold 06/10/2020,"$242,000",1,1
+"624 Olmsted Park Pl, Charlotte, NC 28203","1,692",Sold 06/02/2020,"$642,500",3,3
+"1903 Kenilworth Ave UNIT 201, Charlotte, NC 28203",934,Sold 06/01/2020,"$251,000",1,1
+"2131 Kirkwood Ave #4, Charlotte, NC 28203",745,Sold 05/29/2020,"$200,000",1,1
+"2210 Sumner Green Ave APT N, Charlotte, NC 28203",707,Sold 05/29/2020,"$211,000",1,1
+"2133 Kirkwood Ave APT 4, Charlotte, NC 28203",658,Sold 05/29/2020,"$200,000",1,1
+"1106 E Worthington Ave, Charlotte, NC 28203","1,806",Sold 05/22/2020,"$460,000",3,2
+"2054 Euclid Ave, Charlotte, NC 28203","1,460",Sold 05/22/2020,"$484,000",2,3

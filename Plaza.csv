@@ -1,0 +1,425 @@
+Address,Square ft,Sale Date,Price,Beds,Baths
+"1604 Mimosa Ave, Charlotte, NC 28205","1,162",Sold 05/18/2023,"$375,000",3,1
+"1918 Thomas Ave, Charlotte, NC 28205","2,002",Sold 05/16/2023,"$805,000",3,3
+"1429 Pecan Ave APT 4, Charlotte, NC 28205","1,349",Sold 05/15/2023,"$557,000",3,3
+"2015 Hamorton Pl, Charlotte, NC 28205","1,813",Sold 05/15/2023,"$570,000",3,3
+"2020 Hamorton Pl, Charlotte, NC 28205","1,940",Sold 05/10/2023,"$933,000",4,2
+"1320 Thomas Ave, Charlotte, NC 28205","1,510",Sold 05/08/2023,"$525,000",2,1
+"1915 Chatham Ave, Charlotte, NC 28205","2,206",Sold 05/08/2023,$1.32M,4,3
+"1510 Hawthorne Ln, Charlotte, NC 28205","2,760",Sold 05/05/2023,"$650,000",3,3
+"1727 The Plz, Charlotte, NC 28205","2,172",Sold 05/02/2023,"$827,000",3,2
+"1508 School St, Charlotte, NC 28205","1,868",Sold 05/01/2023,"$890,000",3,2
+"1621 Tippah Ave, Charlotte, NC 28205","2,820",Sold 05/01/2023,$1.13M,4,4
+"1600 Fulton Ave SUITE 206, Charlotte, NC 28205",886,Sold 05/01/2023,"$279,000",1,1
+"1636 Morningside Dr, Charlotte, NC 28205","2,680",Sold 04/26/2023,"$890,100",3,2
+"2225 The Plz, Charlotte, NC 28205","1,386",Sold 04/25/2023,"$400,000",3,2
+"2311 Club Rd, Charlotte, NC 28205","2,329",Sold 04/21/2023,"$935,000",4,3
+"1815 Club Rd, Charlotte, NC 28205","1,264",Sold 04/18/2023,"$450,000",3,1
+"2205 Chatham Ave, Charlotte, NC 28205","2,862",Sold 04/14/2023,$1.30M,4,3
+"1816 Mecklenburg Ave, Charlotte, NC 28205","3,094",Sold 04/13/2023,$1.07M,5,3
+"1821 Kensington Dr, Charlotte, NC 28205","1,058",Sold 04/03/2023,"$325,000",2,1
+"1836 The Plz, Charlotte, NC 28205","2,816",Sold 03/28/2023,$1.30M,5,5
+"1611 Central Ave UNIT 205, Charlotte, NC 28205",656,Sold 03/27/2023,"$240,000",1,1
+"2001 Chatham Ave, Charlotte, NC 28205","1,653",Sold 03/21/2023,"$800,000",3,2
+"1700 Hawthorne Ln, Charlotte, NC 28205","4,041",Sold 03/09/2023,$1.44M,5,4
+"1420 Thomas Ave, Charlotte, NC 28205","1,557",Sold 03/03/2023,"$775,000",3,2
+"1911 Kenwood Ave, Charlotte, NC 28205","1,633",Sold 02/24/2023,"$650,000",3,2
+"1733 Masonic Dr, Charlotte, NC 28205",982,Sold 02/23/2023,"$395,000",2,1
+"1509 Landis Ave, Charlotte, NC 28205","2,667",Sold 01/17/2023,"$820,000",4,4
+"1931 Dearmon Dr, Charlotte, NC 28205","1,732",Sold 01/13/2023,"$605,000",3,3
+"2013 Kenwood Ave, Charlotte, NC 28205","2,330",Sold 01/12/2023,"$910,000",3,3
+"1724 Fulton Ave, Charlotte, NC 28205",746,Sold 12/30/2022,"$360,000",2,1
+"1601 Onslow Dr, Charlotte, NC 28205","1,022",Sold 12/20/2022,"$440,000",2,1
+"1327 Thomas Ave, Charlotte, NC 28205","1,337",Sold 12/09/2022,"$527,500",3,2
+"1924 Hall Ave, Charlotte, NC 28205","3,331",Sold 12/09/2022,$1.10M,5,4
+"1804 Chestnut Ave, Charlotte, NC 28205","1,102",Sold 12/08/2022,"$425,000",2,2
+"1600 Fulton Ave SUITE 202, Charlotte, NC 28205","1,043",Sold 12/07/2022,"$269,000",2,2
+"1600 Fulton Ave SUITE 201, Charlotte, NC 28205","1,037",Sold 12/07/2022,"$269,000",2,2
+"1204 Clement Ave, Charlotte, NC 28205","1,181",Sold 11/29/2022,"$528,650",2,2
+"2309 Mecklenburg Ave, Charlotte, NC 28205","2,516",Sold 11/28/2022,"$980,000",4,3
+"1811 Chestnut Ave, Charlotte, NC 28205","2,286",Sold 11/28/2022,"$390,000",2,2
+"1509 Belvedere Ave, Charlotte, NC 28205","1,298",Sold 11/23/2022,"$412,000",3,2
+"1923 Hall Ave, Charlotte, NC 28205","1,548",Sold 11/17/2022,"$610,000",3,3
+"1922 Thurmond Pl, Charlotte, NC 28205","1,099",Sold 11/14/2022,"$425,000",2,1
+"1801 Tippah Ave, Charlotte, NC 28205","1,572",Sold 11/08/2022,"$555,000",3,2
+"2011 Hamorton Pl, Charlotte, NC 28205","1,816",Sold 11/01/2022,"$550,000",3,3
+"1621 Chatham Ave, Charlotte, NC 28205","1,235",Sold 10/25/2022,$1.28M,3,1
+"2005 Kenwood Ave, Charlotte, NC 28205","1,600",Sold 10/24/2022,"$825,000",3,2
+"1623 Chatham Ave, Charlotte, NC 28205","3,308",Sold 10/24/2022,$1.28M,4,4
+"1730 Thomas Ave, Charlotte, NC 28205","1,937",Sold 10/21/2022,"$838,625",3,2
+"1628 Morningside Dr, Charlotte, NC 28205","2,218",Sold 10/18/2022,"$799,000",3,3
+"1505 Belvedere Ave, Charlotte, NC 28205",964,On market May 26,"$250,000",2,1
+"1625 Morningside Dr, Charlotte, NC 28205","1,976",Sold 10/14/2022,"$755,000",4,2
+"1546 Tippah Park Ct, Charlotte, NC 28205","2,614",Sold 10/04/2022,"$795,000",4,4
+"1416 Thomas Ave, Charlotte, NC 28205","1,526",Sold 10/03/2022,"$650,000",3,2
+"1610 Thomas Ave, Charlotte, NC 28205","2,338",Sold 10/03/2022,"$805,000",3,2
+"1834 Cochran Pl, Charlotte, NC 28205","1,052",Sold 10/03/2022,"$503,250",3,2
+"2225 Chambwood Dr, Charlotte, NC 28205","1,784",Sold 09/30/2022,"$565,000",2,1
+"1800 Truman Rd, Charlotte, NC 28205","3,650",Sold 09/29/2022,$1.30M,4,3
+"1912 Truman Rd, Charlotte, NC 28205","3,228",Sold 09/28/2022,$1.18M,4,4
+"1815 Logie Ave, Charlotte, NC 28205","1,100",Sold 09/26/2022,"$525,000",2,1
+"1714 The Plz, Charlotte, NC 28205","1,203",Sold 09/23/2022,"$620,000",2,1
+"2121 Winter St, Charlotte, NC 28205","1,081",Sold 09/22/2022,"$680,000",3,1
+"1418 The Plz, Charlotte, NC 28205","1,496",Sold 09/16/2022,"$650,000",2,2
+"1815 Truman Rd, Charlotte, NC 28205","1,453",Sold 09/16/2022,"$655,000",3,2
+"1825 Cochran Pl, Charlotte, NC 28205",912,Sold 09/15/2022,$1.40M,2,1
+"1805 Dearmon Dr, Charlotte, NC 28205","2,244",Sold 09/13/2022,"$810,000",3,2
+"2731 Kilgo Way, Charlotte, NC 28205","1,859",Sold 09/12/2022,"$605,000",2,2
+"1920 Hall Ave, Charlotte, NC 28205","3,311",Sold 09/12/2022,$1.13M,5,4
+"2731 Kilgo Way #2, Charlotte, NC 28205","1,745",Sold 09/12/2022,"$605,000",3,3
+"2113 Matheson Ave, Charlotte, NC 28205","3,294",Sold 09/08/2022,$1.10M,4,4
+"1912 Hall Ave, Charlotte, NC 28205","3,307",Sold 09/07/2022,$1.18M,5,4
+"1954 Thurmond Pl, Charlotte, NC 28205","1,553",Sold 09/02/2022,"$547,500",2,2
+"2200 Randall St, Charlotte, NC 28205","1,364",Sold 09/01/2022,"$465,000",2,2
+"2024 Hamorton Pl, Charlotte, NC 28205","1,133",Sold 08/29/2022,"$452,000",3,2
+"2314 Wolfe St, Charlotte, NC 28205","1,425",Sold 08/26/2022,"$595,000",3,2
+"1729 Chatham Ave, Charlotte, NC 28205","1,232",Sold 08/25/2022,"$610,000",2,2
+"1716 Chatham Ave, Charlotte, NC 28205","1,010",Sold 08/23/2022,"$435,000",3,1
+"1717 Pecan Ave, Charlotte, NC 28205","1,778",Sold 08/22/2022,"$815,000",3,2
+"1512 Thomas Ave, Charlotte, NC 28205","1,237",Sold 08/22/2022,"$505,000",3,1
+"2027 The Plz, Charlotte, NC 28205","1,995",Sold 08/19/2022,"$785,000",3,2
+"1916 Hall Ave, Charlotte, NC 28205","3,306",Sold 08/11/2022,$1.14M,5,4
+"1613 Belvedere Ave, Charlotte, NC 28205","1,525",Sold 08/09/2022,"$715,000",3,2
+"2220 Belvedere Ave, Charlotte, NC 28205","2,390",Sold 08/05/2022,"$925,000",3,3
+"2321 Belvedere Ave, Charlotte, NC 28205","3,288",Sold 07/26/2022,$1.61M,4,3
+"1911 Hamorton Pl, Charlotte, NC 28205","1,584",Sold 07/26/2022,"$800,000",3,3
+"2026 Belvedere Ave, Charlotte, NC 28205","3,551",Sold 07/18/2022,$1.28M,4,4
+"2120 Chatham Ave, Charlotte, NC 28205","1,175",Sold 07/11/2022,"$575,000",2,1
+"1811 Chatham Ave, Charlotte, NC 28205","3,601",Sold 07/11/2022,$1.54M,5,5
+"1424 Nandina St, Charlotte, NC 28205","1,418",Sold 06/30/2022,"$655,000",3,2
+"1400 Nassau Blvd, Charlotte, NC 28205","1,451",Sold 06/27/2022,"$675,000",3,1
+"1707 Club Rd APT 3, Charlotte, NC 28205",683,Sold 06/21/2022,"$257,500",1,1
+"2208 Club Rd, Charlotte, NC 28205","1,957",Sold 06/15/2022,"$815,000",3,2
+"1825 Sprague Ave, Charlotte, NC 28205","1,642",Sold 06/09/2022,"$741,000",3,2
+"1408 Thomas Ave, Charlotte, NC 28205","2,936",Sold 06/03/2022,$1.10M,3,2
+"1812 Truman Rd, Charlotte, NC 28205","3,703",Sold 06/03/2022,"$970,000",4,4
+"1525 The Plz, Charlotte, NC 28205","1,784",Sold 06/02/2022,"$740,000",3,1
+"2320 Belvedere Ave, Charlotte, NC 28205","2,682",Sold 06/01/2022,$1.07M,4,3
+"1424 Hamorton Pl, Charlotte, NC 28205","2,024",Sold 05/31/2022,"$925,000",4,3
+"1612 Thomas Ave, Charlotte, NC 28205","2,347",Sold 05/31/2022,"$950,000",3,3
+"1825 Truman Rd, Charlotte, NC 28205","2,465",Sold 05/31/2022,$1.15M,4,3
+"1801 Dearmon Dr, Charlotte, NC 28205","2,779",Sold 05/27/2022,"$949,000",4,4
+"2249 Club Rd, Charlotte, NC 28205","3,113",Sold 05/26/2022,$1.30M,4,4
+"2026 Thomas Ave, Charlotte, NC 28205","1,572",Sold 05/25/2022,"$901,000",3,2
+"2301 Mecklenburg Ave, Charlotte, NC 28205","2,581",Sold 05/19/2022,$1.10M,3,2
+"1822 Hall Ave, Charlotte, NC 28205","1,495",Sold 05/19/2022,"$725,000",3,2
+"1919 Truman Rd, Charlotte, NC 28205","3,313",Sold 05/19/2022,$1.03M,4,4
+"1501 Thomas Ave, Charlotte, NC 28205","1,829",Sold 05/17/2022,"$702,000",3,2
+"1643 Masonic Dr, Charlotte, NC 28205","1,250",Sold 05/17/2022,"$290,000",4,1.5
+"1922 Hamorton Pl, Charlotte, NC 28205","1,060",Sold 05/02/2022,"$435,000",2,1
+"1611 Tippah Ave, Charlotte, NC 28205","1,398",Sold 04/29/2022,"$600,000",3,2.5
+"1921 Chatham Ave, Charlotte, NC 28205","2,683",Sold 04/29/2022,$1.15M,4,3
+"1611 Central Ave UNIT 200, Charlotte, NC 28205",600,Sold 04/29/2022,"$220,000",1,1
+"1611 Tippah Park Ct, Charlotte, NC 28205","1,443",Sold 04/29/2022,"$600,000",2,3
+"1729 Kensington Dr, Charlotte, NC 28205","2,063",Sold 04/28/2022,"$785,000",3,2
+"1511 Tippah Park Ct, Charlotte, NC 28205","2,164",Sold 04/28/2022,"$715,000",3,3
+"2107 Sablewood Dr, Charlotte, NC 28205","2,471",Sold 04/27/2022,"$866,000",4,3
+"1330 Pecan Ave, Charlotte, NC 28205","2,113",Sold 04/26/2022,"$920,000",4,3
+"1820 Mecklenburg Ave, Charlotte, NC 28205","1,008",Sold 04/25/2022,"$412,000",3,1
+"2205 Thurmond Pl, Charlotte, NC 28205",870,Sold 04/25/2022,"$450,000",2,1
+"1713 Fulton Ave, Charlotte, NC 28205","2,051",Sold 04/25/2022,"$852,000",3,3
+"1820 Dearmon Dr, Charlotte, NC 28205","2,716",Sold 04/22/2022,$1.12M,4,3
+"1812 Mecklenburg Ave, Charlotte, NC 28205","2,065",Sold 04/20/2022,"$765,000",4,2
+"1834 Belvedere Ave, Charlotte, NC 28205","2,246",Sold 04/18/2022,$1.10M,3,3
+"1611 Central Ave UNIT 404, Charlotte, NC 28205",664,Sold 04/12/2022,"$200,000",1,1
+"2401 Belvedere Ave, Charlotte, NC 28205","2,633",Sold 04/08/2022,$1.00M,4,4
+"1717 Club Rd, Charlotte, NC 28205","1,470",Sold 04/08/2022,"$525,000",--,2
+"2300 Kensington Dr, Charlotte, NC 28205","1,381",Sold 04/08/2022,"$570,000",2,1
+"1717 & 1719 Club Rd, Charlotte, NC 28205","1,471",Sold 04/08/2022,"$525,000",3,--
+"1909 Chatham Ave, Charlotte, NC 28205","1,212",Sold 04/06/2022,"$470,000",2,1.5
+"1713 Chatham Ave, Charlotte, NC 28205","2,949",Sold 04/01/2022,$1.27M,3,3
+"1445 Haywood Ct, Charlotte, NC 28205",--,Sold 04/01/2022,"$664,000",--,--
+"1919 Dearmon Dr, Charlotte, NC 28205","1,678",Sold 03/31/2022,"$570,000",3,3
+"1445 Haywood Ct #A, Charlotte, NC 28205","2,044",Sold 03/31/2022,"$664,000",3,4
+"1451 Haywood Ct #B, Charlotte, NC 28205","2,044",Sold 03/31/2022,"$650,000",3,4
+"1445 Haywood Ct #B, Charlotte, NC 28205","2,044",Sold 03/29/2022,"$644,000",3,4
+"1451 Haywood Ct #A, Charlotte, NC 28205","2,044",Sold 03/29/2022,"$642,080",3,4
+"1721 The Plz, Charlotte, NC 28205","1,476",Sold 03/17/2022,"$706,000",3,2
+"1632 Logie Ave, Charlotte, NC 28205","1,090",Sold 03/17/2022,"$456,000",2,1
+"1808 Kenwood Ave, Charlotte, NC 28205","1,800",Sold 03/11/2022,"$705,000",3,2
+"2721 Kilgo Way, Charlotte, NC 28205","1,998",Sold 03/10/2022,"$625,000",3,2.5
+"2721 Kilgo Way #4, Charlotte, NC 28205","2,028",Sold 03/10/2022,"$625,000",3,3
+"1906 Chatham Ave, Charlotte, NC 28205","1,789",Sold 03/08/2022,"$727,500",3,2
+"1615 Thomas Ave, Charlotte, NC 28205","2,207",Sold 03/03/2022,"$837,000",3,3
+"1915 Nassau Blvd, Charlotte, NC 28205","1,136",Sold 03/03/2022,"$240,000",3,1
+"2004 Club Rd, Charlotte, NC 28205","2,059",Sold 03/03/2022,"$775,000",4,3
+"2728 Kilgo Way, Charlotte, NC 28205","2,079",Sold 03/01/2022,"$630,000",3,3
+"2735 Kilgo Way, Charlotte, NC 28205","2,174",Sold 02/28/2022,"$700,000",3,3
+"1715 Mimosa Ave, Charlotte, NC 28205","1,909",Sold 02/23/2022,"$550,000",5,3
+"1820 Thomas Ave, Charlotte, NC 28205","2,255",Sold 02/17/2022,"$775,000",4,2
+"1904 Dearmon Dr, Charlotte, NC 28205","2,062",Sold 02/17/2022,"$645,000",3,3
+"1800 Kenwood Ave, Charlotte, NC 28205","2,044",Sold 02/17/2022,"$745,000",3,2
+"1500 Hawthorne Ln #B, Charlotte, NC 28205","2,044",Sold 02/17/2022,"$644,500",3,4
+"1726 The Plz, Charlotte, NC 28205","2,086",Sold 02/11/2022,"$854,000",4,2
+"1711 Mimosa Ave, Charlotte, NC 28205","1,895",Sold 02/11/2022,"$565,000",3,4
+"2136 Chatham Ave, Charlotte, NC 28205","3,446",Sold 02/07/2022,"$987,597",5,4
+"2200 Chatham Ave, Charlotte, NC 28205",--,Sold 02/07/2022,"$988,000",--,--
+"1709 Mimosa Ave, Charlotte, NC 28205","1,895",Sold 02/03/2022,"$565,000",3,4
+"1701 Masonic Dr, Charlotte, NC 28205","1,117",Sold 01/31/2022,"$335,000",3,2
+"1907 Hamorton Pl, Charlotte, NC 28205","1,534",Sold 01/27/2022,"$645,000",3,3
+"1550 Tippah Park Ct, Charlotte, NC 28205","2,477",Sold 01/24/2022,"$665,000",4,4
+"1713 Mimosa Ave, Charlotte, NC 28205","1,895",Sold 01/21/2022,"$565,000",3,4
+"1705 Mimosa Ave, Charlotte, NC 28205","1,895",Sold 01/20/2022,"$585,000",3,4
+"1510 Hamorton Pl, Charlotte, NC 28205","2,296",Sold 12/30/2021,"$865,000",3,3
+"2011 Wilhelmina Ave, Charlotte, NC 28205","1,485",Sold 12/29/2021,"$454,000",3,2
+"1500 Hawthorne Ln #A, Charlotte, NC 28205","2,044",Sold 12/29/2021,"$605,971",3,4
+"1707 Mimosa Ave, Charlotte, NC 28205","1,895",Sold 12/28/2021,"$565,000",3,4
+"1704 Truman Rd, Charlotte, NC 28205","2,839",Sold 12/17/2021,$1.10M,4,4
+"1618 Chatham Ave, Charlotte, NC 28205","2,771",Sold 12/13/2021,"$960,000",4,3
+"1618 Chatham Ave #7, Charlotte, NC 28205","2,702",Sold 12/13/2021,"$960,000",4,3
+"1504 Belvedere Ave, Charlotte, NC 28205","1,932",Sold 12/10/2021,"$750,000",3,2
+"1718 Mecklenburg Ave, Charlotte, NC 28205","1,645",Sold 12/09/2021,"$558,000",4,2
+"1525 Pecan Ave, Charlotte, NC 28205","1,075",Sold 12/09/2021,"$350,000",2,3
+"1505 Thomas Ave, Charlotte, NC 28205","1,941",Sold 12/02/2021,"$825,000",3,3
+"2113 Winter St, Charlotte, NC 28205","1,246",Sold 12/02/2021,"$485,000",2,1
+"2328 Mecklenburg Ave, Charlotte, NC 28205","3,495",Sold 12/01/2021,$1.20M,4,4
+"1820 Kensington Dr, Charlotte, NC 28205",730,Sold 12/01/2021,"$535,000",2,1
+"1555 Pecan Ave, Charlotte, NC 28205","1,052",Sold 12/01/2021,"$338,000",2,3
+"1820/1822 Kensington Dr, Charlotte, NC 28205","1,456",Sold 12/01/2021,"$535,000",4,--
+"1920 Winter St, Charlotte, NC 28205","2,040",Sold 11/30/2021,"$775,000",3,3
+"2010 Belvedere Ave, Charlotte, NC 28205","7,088",Sold 11/23/2021,$2.25M,1,4
+"1926 The Plz, Charlotte, NC 28205","1,757",Sold 11/23/2021,"$480,000",3,2
+"1808 Truman Rd, Charlotte, NC 28205","1,551",Sold 11/23/2021,"$570,000",3,2
+"2329 Central Ave, Charlotte, NC 28205","2,585",Sold 11/22/2021,"$540,000",3,4
+"2221 Chatham Ave, Charlotte, NC 28205","1,620",Sold 11/19/2021,"$470,000",4,2
+"1801 Kenwood Ave, Charlotte, NC 28205","3,278",Sold 11/19/2021,"$800,000",3,2.5
+"1803 Kenwood Ave, Charlotte, NC 28205","3,168",Sold 11/19/2021,"$800,000",4,4
+"2127 The Plz, Charlotte, NC 28205","1,459",Sold 11/18/2021,"$542,500",2,2
+"2000 Chatham Ave, Charlotte, NC 28205","2,095",Sold 11/16/2021,"$900,000",4,4
+"1609 Chatham Ave, Charlotte, NC 28205","2,119",Sold 11/16/2021,"$475,000",2,4
+"2212 Chambwood Dr, Charlotte, NC 28205","1,696",Sold 11/10/2021,"$465,000",3,2
+"1832 Sprague Ave, Charlotte, NC 28205","4,727",Sold 11/03/2021,$1.26M,5,5
+"1609 Belvedere Ave, Charlotte, NC 28205","1,700",Sold 11/02/2021,"$691,000",3,2
+"1559 Pecan Ave, Charlotte, NC 28205","1,046",Sold 11/02/2021,"$317,000",2,3
+"1619 Tippah Ave, Charlotte, NC 28205","2,705",Sold 11/01/2021,"$685,000",3,4
+"1917 Thomas Ave, Charlotte, NC 28205","2,044",Sold 10/29/2021,"$590,000",4,3
+"1900 Mecklenburg Ave, Charlotte, NC 28205","2,254",Sold 10/29/2021,"$600,000",--,2
+"1826 Hall Ave, Charlotte, NC 28205","1,644",Sold 10/29/2021,"$651,000",3,2
+"1900/1902 Mecklenburg Ave, Charlotte, NC 28205","2,200",Sold 10/29/2021,"$600,000",4,2
+"2215 Chatham Ave, Charlotte, NC 28205","1,650",Sold 10/28/2021,"$575,000",3,2
+"1507 Tippah Park Ct, Charlotte, NC 28205","2,110",Sold 10/25/2021,"$620,000",3,3
+"1543 Tippah Park Ct, Charlotte, NC 28205","2,234",Sold 10/22/2021,"$642,500",3,3
+"2020 Chatham Ave, Charlotte, NC 28205","1,583",Sold 10/19/2021,"$485,000",3,2
+"3311 Josephine Ct, Charlotte, NC 28205","2,547",Sold 10/13/2021,"$870,000",4,4
+"1837 Kenwood Ave, Charlotte, NC 28205","1,150",Sold 10/07/2021,"$525,000",3,2
+"1821 Hamorton Pl, Charlotte, NC 28205","1,421",Sold 10/06/2021,"$500,000",2,1
+"2012 Club Rd, Charlotte, NC 28205","1,444",Sold 09/30/2021,"$637,012",2,2
+"2516 Belvedere Ave, Charlotte, NC 28205","1,616",Sold 09/30/2021,"$600,000",3,2
+"2100 Peppercorn Ln, Charlotte, NC 28205","2,466",Sold 09/30/2021,$1.00M,4,3
+"1911 Club Rd, Charlotte, NC 28205","1,423",Sold 09/29/2021,"$620,000",3,2
+"2012 Truman Rd, Charlotte, NC 28205","3,984",Sold 09/28/2021,$1.37M,6,4
+"1611 Chatham Ave, Charlotte, NC 28205","1,614",Sold 09/28/2021,"$431,500",2,3
+"1924 Chatham Ave, Charlotte, NC 28205","1,672",Sold 09/23/2021,"$750,000",3,2
+"2121 Club Rd, Charlotte, NC 28205","1,930",Sold 09/22/2021,"$830,000",3,2
+"2200 Chatham Ave, Charlotte, NC 28205","2,966",Sold 09/20/2021,"$545,000",3,3
+"2820 Saint Andrews Ln, Charlotte, NC 28205","4,400",Sold 09/16/2021,$1.34M,4,5
+"1627 Logie Ave, Charlotte, NC 28205","1,792",Sold 09/14/2021,"$595,000",3,3
+"1607 Mimosa Ave, Charlotte, NC 28205","2,810",Sold 09/10/2021,"$765,000",3,3
+"1737 Logie Ave, Charlotte, NC 28205",936,Sold 09/10/2021,"$9,000",2,1
+"1918 Club Rd, Charlotte, NC 28205","1,352",Sold 09/09/2021,"$525,000",3,1
+"1801 Thomas Ave, Charlotte, NC 28205","1,715",Sold 09/08/2021,"$635,000",3,2
+"1617 Onslow Dr, Charlotte, NC 28205","3,126",Sold 09/08/2021,"$995,000",4,3
+"1815 Masonic Dr, Charlotte, NC 28205","1,620",Sold 09/01/2021,"$349,500",3,3
+"2225 Winter St, Charlotte, NC 28205","1,584",Sold 08/31/2021,"$585,000",4,1
+"2209 Club Rd, Charlotte, NC 28205","2,187",Sold 08/31/2021,"$792,000",4,3
+"1830 The Plz, Charlotte, NC 28205","2,323",Sold 08/31/2021,"$780,000",3,3
+"1915 Thomas Ave, Charlotte, NC 28205","1,830",Sold 08/27/2021,"$790,500",3,2
+"2004 Midwood Pl, Charlotte, NC 28205","2,364",Sold 08/13/2021,"$725,000",3,2
+"1714 Tippah Ave, Charlotte, NC 28205","2,550",Sold 08/12/2021,"$875,000",3,3
+"1917 Chatham Ave, Charlotte, NC 28205","2,716",Sold 08/12/2021,"$998,500",4,4
+"1901 Truman Rd, Charlotte, NC 28205","3,160",Sold 08/10/2021,"$935,000",4,4
+"2000 Winter St, Charlotte, NC 28205","1,701",Sold 08/03/2021,"$715,000",3,2
+"1809 Hamorton Pl, Charlotte, NC 28205","2,252",Sold 08/02/2021,"$785,000",4,3
+"1603 Tippah Ave, Charlotte, NC 28205","2,559",Sold 07/30/2021,"$860,000",4,3
+"2039 Wilhelmina Ave, Charlotte, NC 28205","1,390",Sold 07/29/2021,"$650,000",3,2
+"2221 Belvedere Ave, Charlotte, NC 28205","1,651",Sold 07/29/2021,"$650,000",3,2
+"1433 Thomas Ave, Charlotte, NC 28205","1,230",Sold 07/27/2021,"$455,000",2,1
+"2600 Belvedere Ave, Charlotte, NC 28205","2,248",Sold 07/21/2021,"$746,500",3,3
+"2020 Truman Rd, Charlotte, NC 28205","3,017",Sold 07/21/2021,$1.05M,4,3
+"1822 Belvedere Ave, Charlotte, NC 28205","2,626",Sold 07/20/2021,"$765,000",4,4
+"2030 Peppercorn Ln, Charlotte, NC 28205","4,730",Sold 07/19/2021,$1.79M,5,5
+"1933 Thurmond Pl, Charlotte, NC 28205","1,363",Sold 07/15/2021,"$605,000",3,2
+"1816 Hall Ave, Charlotte, NC 28205","1,575",Sold 07/14/2021,"$660,000",3,2
+"1918 Dunhill Dr, Charlotte, NC 28205","1,725",Sold 07/14/2021,"$545,000",3,3
+"1815 Belvedere Ave, Charlotte, NC 28205","2,078",Sold 07/13/2021,"$785,000",3,2
+"2017 Club Rd, Charlotte, NC 28205","1,363",Sold 07/13/2021,"$553,000",2,2
+"1600 Fulton Ave SUITE 305, Charlotte, NC 28205",780,Sold 07/07/2021,"$234,900",1,1
+"2019 Chatham Ave, Charlotte, NC 28205","1,786",Sold 07/01/2021,"$760,000",3,2
+"1720 Truman Rd, Charlotte, NC 28205","1,448",Sold 06/30/2021,"$600,000",3,2
+"1934 Thurmond Pl, Charlotte, NC 28205","1,266",Sold 06/25/2021,"$425,000",2,1
+"2306 Club Rd, Charlotte, NC 28205","2,193",Sold 06/25/2021,"$825,000",3,3
+"2208 Belvedere Ave, Charlotte, NC 28205","2,007",Sold 06/17/2021,"$731,000",3,2
+"1729 Club Rd, Charlotte, NC 28205","1,718",Sold 06/17/2021,"$590,000",3,2
+"2316 Belvedere Ave, Charlotte, NC 28205","2,595",Sold 06/07/2021,"$900,000",4,3
+"1611 Central Ave UNIT 400, Charlotte, NC 28205",619,Sold 06/04/2021,"$195,000",1,1
+"2001 Kenwood Ave, Charlotte, NC 28205","3,131",Sold 06/02/2021,$1.18M,4,4
+"1914 Club Rd, Charlotte, NC 28205","2,586",Sold 06/01/2021,"$915,000",4,3
+"1926 Thurmond Pl, Charlotte, NC 28205","1,275",Sold 05/27/2021,"$540,000",2,2
+"1712 Pecan Ave, Charlotte, NC 28205","1,702",Sold 05/26/2021,"$520,000",4,2
+"1633 Nassau Blvd, Charlotte, NC 28205","1,940",Sold 05/26/2021,"$700,000",3,3
+"1500 Mimosa Ave, Charlotte, NC 28205","2,523",Sold 05/21/2021,"$810,000",4,3
+"2001 The Plz, Charlotte, NC 28205","2,667",Sold 05/21/2021,"$625,000",5,2
+"2120 Chambwood Dr, Charlotte, NC 28205","1,782",Sold 05/19/2021,"$625,000",4,2
+"1606 Tippah Ave, Charlotte, NC 28205","3,056",Sold 05/19/2021,"$750,000",5,4
+"1637 Club Rd, Charlotte, NC 28205","2,110",Sold 05/17/2021,"$650,000",4,3
+"2112 Club Rd, Charlotte, NC 28205","1,965",Sold 05/14/2021,"$670,000",3,3
+"2724 Kilgo Way, Charlotte, NC 28205","1,743",Sold 05/13/2021,"$550,000",3,3
+"1824 Chestnut Ave, Charlotte, NC 28205","1,749",Sold 05/04/2021,"$590,000",3,2
+"1801 Chestnut Ave, Charlotte, NC 28205","1,485",Sold 05/03/2021,"$575,000",3,2
+"2021 Sablewood Dr, Charlotte, NC 28205","1,718",Sold 05/03/2021,"$525,000",3,3
+"2029 Sablewood Dr, Charlotte, NC 28205","1,878",Sold 05/03/2021,"$525,000",3,2.5
+"3305 Josephine Ct, Charlotte, NC 28205","3,249",Sold 05/03/2021,$1.00M,4,3
+"1812 Kenwood Ave, Charlotte, NC 28205","3,203",Sold 04/30/2021,"$927,500",4,5
+"1611 Central Ave UNIT 206, Charlotte, NC 28205",668,Sold 04/28/2021,"$210,000",1,1
+"1521 Belvedere Ave, Charlotte, NC 28205",899,Sold 04/26/2021,"$310,000",2,1
+"1435 Tippah Park Ct, Charlotte, NC 28205","1,976",Sold 04/26/2021,"$605,000",3,3
+"3021 Belvedere Ave, Charlotte, NC 28205","4,381",Sold 04/22/2021,$2.30M,4,5
+"2308 Belvedere Ave, Charlotte, NC 28205","5,356",Sold 04/22/2021,$1.10M,5,5
+"1511 Haywood Ct, Charlotte, NC 28205","1,300",Sold 04/20/2021,"$500,000",3,1
+"2240 Mecklenburg Ave, Charlotte, NC 28205","5,692",Sold 04/19/2021,$1.35M,5,6
+"1573 Pecan Ave, Charlotte, NC 28205","1,122",Sold 04/14/2021,"$325,000",2,3
+"1611 Central Ave UNIT 301, Charlotte, NC 28205",738,Sold 04/14/2021,"$210,000",1,1
+"1512 Parkwood Ave #13, Charlotte, NC 28205","1,232",Sold 04/13/2021,"$312,000",3,2
+"1512 Parkwood Ave, Charlotte, NC 28205","1,232",Sold 04/12/2021,"$312,000",3,2
+"2338 Club Rd, Charlotte, NC 28205","3,481",Sold 04/09/2021,$1.20M,5,5
+"2004 Belvedere Ave, Charlotte, NC 28205","2,313",Sold 04/08/2021,"$750,000",3,2
+"1521 Landis Ave, Charlotte, NC 28205","3,069",Sold 04/08/2021,"$875,000",4,4
+"1529 Pecan Ave, Charlotte, NC 28205","1,096",Sold 04/07/2021,"$292,500",2,3
+"1722 Tippah Ave, Charlotte, NC 28205","1,716",Sold 04/05/2021,"$630,000",3,2
+"2013 Hamorton Pl, Charlotte, NC 28205","1,845",Sold 04/01/2021,"$450,000",3,3
+"2131 Winter St, Charlotte, NC 28205","1,086",Sold 03/31/2021,"$433,000",2,1
+"1525 Landis Ave, Charlotte, NC 28205","3,294",Sold 03/30/2021,"$875,000",5,5
+"2249 Chambwood Dr, Charlotte, NC 28205","1,706",Sold 03/29/2021,"$587,100",3,2
+"1504 Hawthorne Ln, Charlotte, NC 28205",888,Sold 03/25/2021,"$397,000",2,2
+"1808 Dearmon Dr, Charlotte, NC 28205","1,200",Sold 03/25/2021,"$365,000",3,1
+"1933 Hamorton Pl, Charlotte, NC 28205","2,562",Sold 03/22/2021,"$712,500",4,3
+"1432 Pecan Ave, Charlotte, NC 28205","2,223",Sold 03/16/2021,"$810,000",3,2
+"2020 Tippah Ave, Charlotte, NC 28205","2,650",Sold 03/16/2021,"$900,000",3,4
+"1720 Pecan Ave, Charlotte, NC 28205","1,532",Sold 03/11/2021,"$360,000",3,2
+"1705 Pecan Ave, Charlotte, NC 28205","3,300",Sold 03/11/2021,"$735,000",4,4
+"1950 Dunhill Dr, Charlotte, NC 28205","1,744",Sold 03/09/2021,"$499,000",3,3
+"1644 Club Rd, Charlotte, NC 28205","1,214",Sold 03/05/2021,"$480,000",2,2
+"1833 The Plz, Charlotte, NC 28205","3,609",Sold 03/04/2021,$1.05M,5,4
+"1717 Nassau Blvd, Charlotte, NC 28205","1,729",Sold 03/01/2021,"$600,000",3,2
+"1721 Masonic Dr, Charlotte, NC 28205","1,144",Sold 02/26/2021,"$360,000",3,2
+"2124 Chatham Ave, Charlotte, NC 28205","1,576",Sold 02/23/2021,"$605,000",3,3
+"2133 Club Rd, Charlotte, NC 28205","2,210",Sold 02/18/2021,"$625,000",3,3
+"1720 Fulton Ave, Charlotte, NC 28205","1,949",Sold 02/17/2021,"$630,000",3,2
+"1727 Tippah Ave, Charlotte, NC 28205","1,775",Sold 02/02/2021,"$306,000",3,2
+"1323 Thomas Ave, Charlotte, NC 28205","1,575",Sold 02/01/2021,"$620,000",2,2
+"1828 Mimosa Ave, Charlotte, NC 28205","1,983",Sold 02/01/2021,"$577,500",3,3
+"1417 The Plz, Charlotte, NC 28205","1,945",Sold 01/29/2021,"$684,145",3,3
+"2320 Mecklenburg Ave, Charlotte, NC 28205","3,270",Sold 01/28/2021,$1.02M,5,4
+"2214 Randall St, Charlotte, NC 28205","3,409",Sold 01/26/2021,"$985,000",4,4
+"1720 Chatham Ave, Charlotte, NC 28205","1,522",Sold 01/22/2021,"$549,900",3,2
+"1921 Thomas Ave, Charlotte, NC 28205","2,231",Sold 01/19/2021,"$639,000",4,3
+"1801 Truman Rd, Charlotte, NC 28205","1,992",Sold 01/15/2021,"$632,500",4,3
+"1611 Central Ave UNIT 403, Charlotte, NC 28205",670,Sold 01/14/2021,"$200,000",1,1
+"1611 Central Ave UNIT 208, Charlotte, NC 28205",736,Sold 01/07/2021,"$193,000",1,1
+"1816 Thomas Ave, Charlotte, NC 28205","1,837",Sold 01/04/2021,"$663,000",3,2
+"1714/1712 Thomas Ave, Charlotte, NC 28205","2,370",Sold 01/04/2021,"$670,000",3,--
+"1718 Tippah Ave, Charlotte, NC 28205","1,153",Sold 12/31/2020,"$350,000",3,1
+"1613 Chatham Ave, Charlotte, NC 28205","2,109",Sold 12/30/2020,"$415,500",2,4
+"1613 Chatham Ave UNIT TOW0007, Charlotte, NC 28205","2,109",Sold 12/30/2020,"$415,249",2,4
+"1609 Chatham Ave UNIT TOW0009, Charlotte, NC 28205",--,Sold 12/23/2020,"$410,210",--,--
+"1609 Chatham Ave UNIT TOW0009, Charlotte, NC 28205","2,109",Sold 12/23/2020,"$410,210",2,4
+"1610 Nassau Blvd, Charlotte, NC 28205","1,268",Sold 12/21/2020,"$460,000",2,1
+"1523 Tippah Park Ct, Charlotte, NC 28205","1,928",Sold 12/21/2020,"$562,500",3,3
+"1632 Morningside Dr, Charlotte, NC 28205","2,730",Sold 12/18/2020,"$388,500",2,1
+"1805 Chatham Ave, Charlotte, NC 28205","3,767",Sold 12/18/2020,$1.10M,4,4
+"1611 Central Ave UNIT 401, Charlotte, NC 28205",741,Sold 12/15/2020,"$210,000",1,1
+"1611 Central Ave, Charlotte, NC 28205",670,Sold 12/15/2020,"$210,000",1,1
+"2119 Thurmond Pl, Charlotte, NC 28205","1,846",Sold 12/11/2020,"$420,000",4,--
+"2123 Thurmond Pl, Charlotte, NC 28205","1,846",Sold 12/11/2020,"$420,000",4,--
+"1614 The Plz, Charlotte, NC 28205","1,895",Sold 12/11/2020,"$638,000",3,2
+"1722 Chestnut Ave, Charlotte, NC 28205","1,547",Sold 12/10/2020,"$530,000",3,1
+"1927 Hamorton Pl, Charlotte, NC 28205","2,708",Sold 12/09/2020,"$649,000",4,3
+"2133 Thurmond Pl, Charlotte, NC 28205",878,Sold 12/04/2020,"$390,000",2,2
+"2323 Central Ave, Charlotte, NC 28205","2,109",Sold 12/03/2020,"$404,000",2,3
+"2323 Central Ave #TOW0002, Charlotte, NC 28205","2,109",Sold 12/02/2020,"$403,815",2,4
+"1821 Hall Ave, Charlotte, NC 28205","2,275",Sold 11/18/2020,"$705,000",3,3
+"1640 Club Rd, Charlotte, NC 28205","2,026",Sold 11/17/2020,"$625,000",3,3
+"1539 Pecan Ave, Charlotte, NC 28205","1,056",Sold 11/17/2020,"$289,000",2,3
+"1610 Tippah Ave, Charlotte, NC 28205","2,004",Sold 11/13/2020,"$600,000",3,3
+"1405 The Plz, Charlotte, NC 28205","1,320",Sold 11/12/2020,"$524,900",2,2
+"2327 Central Ave, Charlotte, NC 28205","2,109",Sold 11/12/2020,"$405,500",2,4
+"2327 Central Ave #TOW0004, Charlotte, NC 28205","2,109",Sold 11/12/2020,"$405,280",2,4
+"1501 Belle Terre Ave, Charlotte, NC 28205","1,530",Sold 11/11/2020,"$505,000",4,3
+"2005 Winter St, Charlotte, NC 28205","2,287",Sold 11/10/2020,"$715,000",3,2
+"1921 Winter St, Charlotte, NC 28205","2,012",Sold 11/06/2020,"$680,000",3,3
+"1908 Dearmon Dr, Charlotte, NC 28205","1,764",Sold 11/04/2020,"$465,000",3,3
+"1611 Central Ave UNIT 203, Charlotte, NC 28205",800,Sold 11/03/2020,"$186,000",1,1
+"1820 Dearmon Dr, Charlotte, NC 28205","2,704",Sold 11/03/2020,"$755,000",4,3
+"1915 Kenwood Ave, Charlotte, NC 28205","1,693",Sold 11/02/2020,"$636,000",3,3
+"1812 Club Rd, Charlotte, NC 28205","1,913",Sold 10/30/2020,"$571,000",3,2
+"1704 Fulton Ave, Charlotte, NC 28205","1,340",Sold 10/30/2020,"$523,500",3,2
+"1537 Belvedere Ave, Charlotte, NC 28205","1,776",Sold 10/29/2020,"$40,000",2,2
+"2214 Club Rd, Charlotte, NC 28205","2,328",Sold 10/26/2020,"$800,000",4,3
+"1617 Pecan Ave, Charlotte, NC 28205","1,726",Sold 10/22/2020,"$575,000",3,2
+"1605 Belvedere Ave, Charlotte, NC 28205","2,100",Sold 10/09/2020,"$530,000",3,2
+"2205 Chambwood Dr, Charlotte, NC 28205","1,518",Sold 10/05/2020,"$435,000",2,2
+"2110 Peppercorn Ln, Charlotte, NC 28205","3,455",Sold 09/29/2020,$1.15M,4,4
+"1930 Thomas Ave, Charlotte, NC 28205","1,753",Sold 09/22/2020,"$545,000",3,2
+"2224 The Plz, Charlotte, NC 28205","4,016",Sold 09/21/2020,$1.14M,--,4.5
+"1925 Chatham Ave, Charlotte, NC 28205","1,605",Sold 09/18/2020,"$556,250",3,2
+"1804 Dearmon Dr, Charlotte, NC 28205","2,147",Sold 09/18/2020,"$620,000",3,2
+"2620 Roland St, Charlotte, NC 28205","1,875",Sold 09/11/2020,"$540,000",3,2
+"1601 The Plz, Charlotte, NC 28205","1,720",Sold 09/10/2020,"$625,000",3,2
+"1804 Browning Ave, Charlotte, NC 28205","2,562",Sold 09/09/2020,"$451,000",4,4
+"1509 Kennon St, Charlotte, NC 28205","2,075",Sold 09/09/2020,"$595,000",3,3
+"1930 Dunhill Dr, Charlotte, NC 28205","2,310",Sold 09/08/2020,"$505,000",4,3
+"1833 Nassau Blvd, Charlotte, NC 28205","3,229",Sold 09/04/2020,$1.10M,4,4
+"3120 Loma Ln, Charlotte, NC 28205","3,448",Sold 09/03/2020,$1.85M,3,3.5
+"1511 Mimosa Ave, Charlotte, NC 28205",855,Sold 08/31/2020,"$330,500",2,1
+"1843 Thomas Ave, Charlotte, NC 28205","1,551",Sold 08/31/2020,"$518,000",3,2
+"1611 Central Ave UNIT 204, Charlotte, NC 28205",669,Sold 08/28/2020,"$185,000",Studio,1
+"2020 Kenwood Ave, Charlotte, NC 28205","1,272",Sold 08/26/2020,"$423,500",3,1
+"2709 Kilgo Way, Charlotte, NC 28205","1,943",Sold 08/25/2020,"$466,000",3,3.5
+"2709 Kilgo Way UNIT 7, Charlotte, NC 28205","1,975",Sold 08/25/2020,"$466,000",3,4
+"1832 Mecklenburg Ave, Charlotte, NC 28205","1,080",Sold 08/21/2020,"$370,000",3,1
+"1820 Cochran Pl, Charlotte, NC 28205","1,653",Sold 08/19/2020,"$515,000",3,2
+"2000 Mecklenburg Ave, Charlotte, NC 28205","2,307",Sold 08/11/2020,"$720,000",3,2
+"2004 Thomas Ave, Charlotte, NC 28205","3,206",Sold 08/07/2020,"$785,000",4,3
+"2019 Hamorton Pl, Charlotte, NC 28205","1,845",Sold 08/06/2020,"$455,000",3,3
+"1451 Haywood Ct, Charlotte, NC 28205",--,Sold 07/30/2020,"$350,000",--,--
+"2117 Club Rd, Charlotte, NC 28205","2,295",Sold 07/27/2020,"$675,000",4,3
+"1615 Chatham Ave, Charlotte, NC 28205","1,697",Sold 07/27/2020,"$399,500",2,3
+"1615 Chatham Ave UNIT TOW0006, Charlotte, NC 28205","1,697",Sold 07/27/2020,"$399,400",2,3
+"1839 Thomas Ave, Charlotte, NC 28205","1,198",Sold 07/24/2020,"$485,000",3,2
+"1408 Pecan Ave, Charlotte, NC 28205","2,480",Sold 07/21/2020,"$705,000",3,3
+"1519 Tippah Park Ct, Charlotte, NC 28205","1,922",Sold 07/21/2020,"$500,000",3,4
+"1725 Belvedere Ave, Charlotte, NC 28205","1,876",Sold 07/20/2020,"$425,000",3,2
+"1425 Pecan Ave APT 2, Charlotte, NC 28205","1,035",Sold 07/20/2020,"$365,000",2,2
+"1617 Chatham Ave, Charlotte, NC 28205","2,475",Sold 07/13/2020,"$580,000",4,4
+"1901 The Plz, Charlotte, NC 28205","2,330",Sold 07/09/2020,"$659,000",4,3
+"1414 The Plz, Charlotte, NC 28205","2,308",Sold 07/03/2020,"$725,000",4,3
+"1600 Nassau Blvd, Charlotte, NC 28205","2,382",Sold 07/02/2020,"$682,500",3,3
+"1921 Thurmond Pl, Charlotte, NC 28205","1,170",Sold 07/01/2020,"$417,500",2,1
+"1543 Pecan Ave, Charlotte, NC 28205","1,036",Sold 07/01/2020,"$286,000",2,2.5
+"1605 Onslow Dr, Charlotte, NC 28205","1,543",Sold 06/30/2020,"$510,000",3,2
+"1531 Tippah Park Ct, Charlotte, NC 28205","2,280",Sold 06/30/2020,"$557,500",3,3
+"1825 Nassau Blvd, Charlotte, NC 28205","1,342",Sold 06/26/2020,"$493,500",3,1
+"1824 Hall Ave, Charlotte, NC 28205","2,000",Sold 06/26/2020,"$454,500",3,2.5
+"2325 Central Ave, Charlotte, NC 28205","1,614",Sold 06/26/2020,"$380,000",2,3
+"2325 Central Ave #TOW0003, Charlotte, NC 28205","1,614",Sold 06/26/2020,"$379,900",2,3
+"1618 Tippah Ave, Charlotte, NC 28205","2,574",Sold 06/25/2020,"$680,000",4,3
+"1923 Kenwood Ave, Charlotte, NC 28205","2,000",Sold 06/24/2020,"$580,000",2,2
+"1809 Kensington Dr, Charlotte, NC 28205","1,299",Sold 06/19/2020,"$430,000",2,1
+"1429 The Plz, Charlotte, NC 28205","1,200",Sold 06/17/2020,"$330,000",3,2
+"1900 Nassau Blvd, Charlotte, NC 28205","3,371",Sold 06/17/2020,"$840,000",4,4
+"1621 Morningside Dr, Charlotte, NC 28205","1,594",Sold 06/17/2020,"$489,000",3,2
+"1414 Hamorton Pl, Charlotte, NC 28205","2,724",Sold 06/15/2020,"$675,000",3,3.5
+"1705 Thomas Ave, Charlotte, NC 28205","1,745",Sold 06/15/2020,"$623,000",3,2
+"1841 Mimosa Ave, Charlotte, NC 28205","1,839",Sold 06/12/2020,"$549,900",3,3
+"2021 Hamorton Pl, Charlotte, NC 28205","1,838",Sold 06/11/2020,"$460,000",3,3
+"1927 Kenwood Ave, Charlotte, NC 28205",949,Sold 06/10/2020,"$398,000",2,1
+"1812 Browning Ave, Charlotte, NC 28205","1,242",Sold 06/10/2020,"$411,000",2,1
+"1554 Tippah Park Ct, Charlotte, NC 28205","2,529",Sold 06/09/2020,"$609,000",4,4
+"2116 Midwood Pl, Charlotte, NC 28205","3,902",Sold 06/05/2020,$1.05M,5,4
+"2508 Belvedere Ave, Charlotte, NC 28205","3,871",Sold 06/04/2020,$1.23M,4,4
+"1559 Tippah Park Ct, Charlotte, NC 28205","1,352",Sold 06/03/2020,$500,3,2.5
+"1700 Logie Ave, Charlotte, NC 28205","1,338",Sold 06/03/2020,"$415,000",3,2
+"1557 Pecan Ave, Charlotte, NC 28205","1,096",Sold 06/03/2020,"$290,000",2,3
+"2200 Belvedere Ave, Charlotte, NC 28205","2,127",Sold 06/02/2020,"$619,000",4,3
+"1812 Hall Ave, Charlotte, NC 28205","1,048",Sold 06/01/2020,"$396,750",2,1
+"1501 Nassau Blvd, Charlotte, NC 28205","1,148",Sold 05/28/2020,"$452,000",2,2

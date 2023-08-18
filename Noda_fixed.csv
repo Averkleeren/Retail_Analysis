@@ -1,0 +1,657 @@
+Address,Square ft,Sale Date,Price,Beds,Baths
+"3263 Noda Blvd, Charlotte, NC 28205",585,Sold 05/19/2023,"$250,500",1,1
+"2230 Electric Ln, Charlotte, NC 28205",--,Sold 04/27/2023,"$565,500",--,--
+"2234 Electric Ln, Charlotte, NC 28205",--,Sold 04/27/2023,"$531,000",--,--
+"2230 Electric Ln #LNO1461, Charlotte, NC 28205","1,786",Sold 04/27/2023,"$565,089",2,4
+"2234 Electric Ln #LNO1460, Charlotte, NC 28205","1,567",Sold 04/27/2023,"$530,578",2,3
+"2238 Electric Ln, Charlotte, NC 28205",--,Sold 04/26/2023,"$555,000",--,--
+"3630 N Davidson St #3312, Charlotte, NC 28205","1,104",Sold 04/26/2023,"$449,370",2,2
+"1127 E 35th St, Charlotte, NC 28205","1,456",Sold 04/25/2023,"$325,000",3,1
+"2528 Pinckney Ave, Charlotte, NC 28205","2,342",Sold 04/25/2023,"$912,528",4,3
+"501 E 37th St #H, Charlotte, NC 28205","1,154",Sold 04/25/2023,"$461,000",2,2
+"849 Academy St, Charlotte, NC 28205","3,012",Sold 04/24/2023,"$700,000",4,4
+"900 Herrin Ave, Charlotte, NC 28205","1,369",Sold 04/20/2023,"$440,000",3,1
+"501 E 37th St #C, Charlotte, NC 28205","1,248",Sold 04/20/2023,"$505,000",2,2
+"804 Academy St, Charlotte, NC 28205","1,122",Sold 04/18/2023,"$423,000",2,2
+"3120 N Davidson St SUITE 200, Charlotte, NC 28205",424,Sold 04/18/2023,"$225,000",Studio,1
+"927 Woodside Ave, Charlotte, NC 28205",990,Sold 04/17/2023,"$380,000",3,1
+"701 E 37th St, Charlotte, NC 28205","1,432",Sold 04/12/2023,"$485,000",2,2
+"721 E 37th St, Charlotte, NC 28205","1,820",Sold 04/06/2023,"$720,000",4,3
+"3572 Artists Way, Charlotte, NC 28205","1,111",Sold 04/05/2023,"$415,000",2,2
+"3246 Noda Blvd, Charlotte, NC 28205","1,721",Sold 04/04/2023,"$451,100",3,3
+"3630 N Davidson St #4407, Charlotte, NC 28205","1,451",Sold 04/04/2023,"$559,170",2,3
+"3009 N Myers St, Charlotte, NC 28205","1,656",Sold 03/29/2023,"$590,000",3,2
+"3247 Wesley Ave, Charlotte, NC 28205",882,Sold 03/24/2023,"$305,000",1,1
+"3630 N Davidson St #4402, Charlotte, NC 28205","1,092",Sold 03/21/2023,"$463,125",2,2
+"3562 N Davidson St, Charlotte, NC 28205","1,289",Sold 03/15/2023,"$370,000",2,3
+"2901 Yadkin Ave, Charlotte, NC 28205","2,322",Sold 03/14/2023,"$650,000",2,2
+"432 E 33rd St, Charlotte, NC 28205","2,234",Sold 03/10/2023,"$705,000",4,5
+"533 Steel Gardens Blvd, Charlotte, NC 28205","1,487",Sold 03/06/2023,"$443,500",2,3
+"922 Steel House Blvd, Charlotte, NC 28205","3,012",Sold 03/03/2023,"$720,000",4,4
+"2245 Electric Ln, Charlotte, NC 28205",--,Sold 03/01/2023,"$632,000",--,--
+"935 Academy St, Charlotte, NC 28205",--,Sold 03/01/2023,"$789,000",--,--
+"3637 Warp St, Charlotte, NC 28205",941,Sold 02/28/2023,"$317,500",2,2
+"2253 Electric Ln, Charlotte, NC 28205",--,Sold 02/28/2023,"$529,500",--,--
+"2249 Electric Ln, Charlotte, NC 28205",--,Sold 02/28/2023,"$549,500",--,--
+"2257 Electric Ln, Charlotte, NC 28205",--,Sold 02/28/2023,"$675,000",--,--
+"2257 Electric Ln #LNO1254, Charlotte, NC 28205","2,339",Sold 02/28/2023,"$675,000",3,5
+"2253 Electric Ln #LNO1253, Charlotte, NC 28205","1,567",Sold 02/28/2023,"$529,181",2,3
+"2245 Electric Ln #LNO1251, Charlotte, NC 28205","2,339",Sold 02/28/2023,"$631,861",3,5
+"2249 Electric Ln #LNO1252, Charlotte, NC 28205","1,786",Sold 02/28/2023,"$549,473",2,4
+"727 E 35th St, Charlotte, NC 28205","2,468",Sold 02/27/2023,"$810,000",4,3
+"3505 Oakwood Ave, Charlotte, NC 28205",--,Sold 02/27/2023,"$787,000",--,--
+"844 Academy St, Charlotte, NC 28205","1,111",Sold 02/23/2023,"$415,000",2,2
+"924 Matheson Ave, Charlotte, NC 28205",952,Sold 02/17/2023,"$345,000",3,1
+"921 Woodside Ave, Charlotte, NC 28205","1,812",Sold 02/17/2023,"$365,000",3,3
+"513 Donatello Ave, Charlotte, NC 28205",956,Sold 02/14/2023,"$314,000",2,2
+"3029 Clemson Ave, Charlotte, NC 28205","2,465",Sold 02/10/2023,"$760,000",4,3
+"3630 N Davidson St #2213, Charlotte, NC 28205",967,Sold 02/10/2023,"$386,000",1,1
+"1444 Winston Dr, Charlotte, NC 28205",930,Sold 02/09/2023,"$285,000",3,1
+"1403 Herrin Ave, Charlotte, NC 28205","1,604",Sold 02/06/2023,"$356,900",3,2
+"3505 Oakwood Ave, Charlotte, NC 28205",--,Sold 02/27/2023,"$787,000",--,--
+"844 Academy St, Charlotte, NC 28205","1,111",Sold 02/23/2023,"$415,000",2,2
+"924 Matheson Ave, Charlotte, NC 28205",952,Sold 02/17/2023,"$345,000",3,1
+"921 Woodside Ave, Charlotte, NC 28205","1,812",Sold 02/17/2023,"$365,000",3,3
+"513 Donatello Ave, Charlotte, NC 28205",956,Sold 02/14/2023,"$314,000",2,2
+"3029 Clemson Ave, Charlotte, NC 28205","2,465",Sold 02/10/2023,"$760,000",4,3
+"3630 N Davidson St #2213, Charlotte, NC 28205",967,Sold 02/10/2023,"$386,000",1,1
+"1444 Winston Dr, Charlotte, NC 28205",930,Sold 02/09/2023,"$285,000",3,1
+"1403 Herrin Ave, Charlotte, NC 28205","1,604",Sold 02/06/2023,"$356,900",3,2
+"2233 Electric Ln, Charlotte, NC 28205",--,Sold 02/01/2023,"$550,500",--,--
+"2237 Electric Ln, Charlotte, NC 28205",--,Sold 02/01/2023,"$539,000",--,--
+"2237 Electric Ln #LNO1149, Charlotte, NC 28205","1,567",Sold 01/31/2023,"$538,820",2,4
+"2233 Electric Ln #LNO1148, Charlotte, NC 28205","1,583",Sold 01/31/2023,"$550,056",2,3
+"2241 Electric Ln #LNO1150, Charlotte, NC 28205","1,786",Sold 01/31/2023,"$562,432",2,4
+"743 Anderson St #1001A, Charlotte, NC 28205","1,580",Sold 01/20/2023,"$540,000",3,4
+"3634 Card St, Charlotte, NC 28205",959,Sold 01/11/2023,"$300,000",2,2
+"3105 Whiting Ave, Charlotte, NC 28205","2,242",Sold 12/16/2022,"$775,000",3,4
+"2811 Whiting Ave, Charlotte, NC 28205","1,502",Sold 12/15/2022,"$575,500",3,3
+"3123 N Davidson St SUITE 101, Charlotte, NC 28205",868,Sold 12/12/2022,$4.20M,--,--
+"3123 N Davidson St SUITE 102, Charlotte, NC 28205",985,Sold 12/12/2022,$4.20M,--,--
+"3123 N Davidson St SUITE 103, Charlotte, NC 28205","2,064",Sold 12/12/2022,$4.20M,--,--
+"3123 N Davidson St SUITE 104, Charlotte, NC 28205","2,347",Sold 12/12/2022,$4.20M,--,--
+"646 Raphael Pl, Charlotte, NC 28205",934,Sold 12/09/2022,"$337,500",2,2
+"509 Patterson St, Charlotte, NC 28205","2,775",Sold 12/06/2022,"$785,000",4,3
+"733 Herrin Ave, Charlotte, NC 28205","2,119",Sold 12/02/2022,"$643,500",3,3
+"2144 Electric Ln, Charlotte, NC 28205",--,Sold 11/22/2022,"$224,000",--,--
+"3630 N Davidson St #4406, Charlotte, NC 28205",742,Sold 11/18/2022,"$299,435",1,1
+"456 E 33rd St, Charlotte, NC 28205","2,064",Sold 11/16/2022,"$662,500",3,3.5
+"456 E 33rd St #22, Charlotte, NC 28205","2,164",Sold 11/16/2022,"$662,500",3,4
+"1114 Leigh Ave, Charlotte, NC 28205",876,Sold 11/10/2022,"$360,000",2,1
+"1500 Winston Dr, Charlotte, NC 28205",943,Sold 11/10/2022,"$375,000",3,1
+"3279 Noda Blvd, Charlotte, NC 28205",652,Sold 11/10/2022,"$265,000",1,1
+"516 E 35th St, Charlotte, NC 28205","7,376",Sold 11/10/2022,$3.90M,3,--
+"3630 N Davidson St #2202, Charlotte, NC 28205","1,092",Sold 11/10/2022,"$438,865",2,2
+"3217 Yadkin Ave, Charlotte, NC 28205","1,356",Sold 11/09/2022,$6.50M,3,1
+"3937 Picasso Ct, Charlotte, NC 28205","1,065",Sold 11/08/2022,"$300,000",2,2
+"501 E 37th St, Charlotte, NC 28205","1,198",Sold 11/04/2022,"$413,480",2,2
+"501 E 37th St #A, Charlotte, NC 28205",717,Sold 11/03/2022,"$301,750",1,1
+"3608 Oakwood Ave, Charlotte, NC 28205","2,172",Sold 10/31/2022,"$697,000",3,2
+"2214 Electric Ln, Charlotte, NC 28205",--,Sold 10/31/2022,"$224,000",--,--
+"2132 Electric Ln, Charlotte, NC 28205",--,Sold 10/28/2022,"$528,000",--,--
+"2132 Electric Ln #LNO0734, Charlotte, NC 28205","1,583",Sold 10/28/2022,"$528,000",2,4
+"2148 Electric Ln, Charlotte, NC 28205",--,Sold 10/27/2022,"$553,000",--,--
+"2148 Electric Ln #LNO0730, Charlotte, NC 28205","1,691",Sold 10/27/2022,"$552,569",2,4
+"2140 Electric Ln, Charlotte, NC 28205",--,Sold 10/26/2022,"$443,500",--,--
+"2140 Electric Ln #LNO0732, Charlotte, NC 28205","1,345",Sold 10/26/2022,"$443,387",2,3
+"3120 Clemson Ave, Charlotte, NC 28205","1,962",Sold 10/20/2022,"$715,000",4,3
+"3116 N Davidson St SUITE 300, Charlotte, NC 28205",904,Sold 10/20/2022,"$295,000",Studio,1
+"3109 N McDowell St, Charlotte, NC 28205","2,542",Sold 10/17/2022,$1.04M,4,4
+"851 Woodside Ave, Charlotte, NC 28205","3,224",Sold 10/14/2022,$1.25M,5,4
+"3535 Warp St, Charlotte, NC 28205","1,340",Sold 10/14/2022,"$370,000",2,3
+"3265 Noda Blvd, Charlotte, NC 28205",606,Sold 10/12/2022,"$237,500",1,1
+"911 Warren Burgess Ln, Charlotte, NC 28205","1,254",Sold 10/11/2022,"$375,000",2,3
+"3422 Chagall Ct, Charlotte, NC 28205","1,361",Sold 10/03/2022,"$395,000",2,3
+"2210 Electric Ln, Charlotte, NC 28205",--,Sold 10/03/2022,"$224,000",--,--
+"1036 E 36th St, Charlotte, NC 28205",840,Sold 09/29/2022,"$290,000",1,1
+"501 E 37th St #G, Charlotte, NC 28205","1,099",Sold 09/29/2022,"$445,000",2,2
+"501 E 37th St #D, Charlotte, NC 28205","1,237",Sold 09/27/2022,"$420,840",2,2
+"946 Warren Burgess Ln, Charlotte, NC 28205","1,776",Sold 09/26/2022,"$425,000",3,3
+"3113 Whiting Ave, Charlotte, NC 28205","2,232",Sold 09/23/2022,"$800,000",3,4
+"2225 Electric Ln, Charlotte, NC 28205",--,Sold 09/21/2022,"$224,000",--,--
+"2209 Electric Ln, Charlotte, NC 28205",--,Sold 09/20/2022,"$224,000",--,--
+"1029 Charles Ave, Charlotte, NC 28205","1,698",Sold 09/15/2022,"$590,000",3,2
+"3642 Card St, Charlotte, NC 28205",974,Sold 09/15/2022,"$315,000",2,2
+"934 Herrin Ave, Charlotte, NC 28205","1,134",Sold 09/12/2022,"$425,000",2,2
+"3271 Noda Blvd, Charlotte, NC 28205",634,Sold 09/09/2022,"$230,000",1,1
+"517 Steel Gardens Blvd, Charlotte, NC 28205","1,524",Sold 09/08/2022,"$445,000",2,3
+"3427 Steel Yard Ct, Charlotte, NC 28205","1,686",Sold 09/07/2022,"$435,000",3,3
+"3451 Steel Yard Ct, Charlotte, NC 28205","1,787",Sold 09/01/2022,"$437,500",3,2.5
+"907 Warren Burgess Ln, Charlotte, NC 28205","1,320",Sold 09/01/2022,"$365,000",2,3
+"3451 Steel Yard Ct #1, Charlotte, NC 28205","1,704",Sold 09/01/2022,"$437,500",3,3
+"1021 Leigh Ave, Charlotte, NC 28205","1,114",Sold 08/31/2022,"$415,000",3,1
+"908 Leigh Ave, Charlotte, NC 28205","2,846",Sold 08/31/2022,"$972,877",5,3
+"4217 Spencer Towns Ln, Charlotte, NC 28205","2,083",Sold 08/31/2022,"$615,000",3,3.5
+"2226 Electric Ln, Charlotte, NC 28205",--,Sold 08/31/2022,"$550,000",--,--
+"2222 Electric Ln, Charlotte, NC 28205",--,Sold 08/31/2022,"$526,000",--,--
+"2222 Electric Ln #LNO1046, Charlotte, NC 28205","1,567",Sold 08/31/2022,"$526,000",2,4
+"2226 Electric Ln #LNO1047, Charlotte, NC 28205","1,583",Sold 08/31/2022,"$550,000",2,3
+"3247 Noda Blvd, Charlotte, NC 28205",664,Sold 08/30/2022,"$245,000",1,1
+"2218 Electric Ln, Charlotte, NC 28205","1,329",Sold 08/30/2022,"$468,000",2,3
+"2206 Electric Ln, Charlotte, NC 28205",--,Sold 08/30/2022,"$546,000",--,--
+"2206 Electric Ln #LNO1042, Charlotte, NC 28205","1,691",Sold 08/30/2022,"$545,727",2,4
+"2218 Electric Ln #LNO1045, Charlotte, NC 28205","1,345",Sold 08/30/2022,"$467,585",2,3
+"3438 Chagall Ct, Charlotte, NC 28205","1,354",Sold 08/26/2022,"$415,000",2,3
+"3630 N Davidson St #2205, Charlotte, NC 28205",750,Sold 08/25/2022,"$340,000",1,1
+"1121 E 35th St, Charlotte, NC 28205","1,328",Sold 08/19/2022,"$500,000",3,1
+"2205 Electric Ln, Charlotte, NC 28205",--,Sold 08/19/2022,"$642,000",--,--
+"2213 Electric Ln #LNO0939, Charlotte, NC 28205","1,583",Sold 08/19/2022,"$505,000",2,3
+"2205 Electric Ln #LNO0941, Charlotte, NC 28205","2,339",Sold 08/19/2022,"$641,730",3,5
+"1440 Winston Dr, Charlotte, NC 28205","1,671",Sold 08/18/2022,"$595,000",3,2
+"2217 Electric Ln, Charlotte, NC 28205",--,Sold 08/18/2022,"$630,000",--,--
+"613 Raphael Pl, Charlotte, NC 28205","1,010",Sold 08/15/2022,"$315,000",2,2
+"2834 Clemson Ave, Charlotte, NC 28205","2,561",Sold 08/12/2022,"$699,000",4,3
+"524 Donatello Ave, Charlotte, NC 28205","1,314",Sold 08/12/2022,"$390,000",2,3
+"3497 Chagall Ct, Charlotte, NC 28205",986,Sold 08/08/2022,"$293,000",1,1
+"1207 E 36th St #4, Charlotte, NC 28205","2,382",Sold 08/08/2022,"$615,000",3,3
+"3600 The Plz, Charlotte, NC 28205","1,722",Sold 08/04/2022,"$495,000",3,3
+"3811 Picasso Ct, Charlotte, NC 28205",940,Sold 08/01/2022,"$315,000",2,2
+"2139 Electric Ln, Charlotte, NC 28205",--,Sold 07/29/2022,"$224,000",--,--
+"2915 Wesley Ave, Charlotte, NC 28205","1,381",Sold 07/28/2022,"$474,500",2,2
+"917 E 36th St, Charlotte, NC 28205","2,087",Sold 07/26/2022,"$592,000",3,4
+"1001 E 36th St, Charlotte, NC 28205","1,691",Sold 07/22/2022,"$586,000",2,3
+"1001 E 36th St #LNO0205, Charlotte, NC 28205","1,691",Sold 07/22/2022,"$586,000",2,3
+"3630 N Davidson St #3303, Charlotte, NC 28205","1,138",Sold 07/18/2022,"$473,370",2,2
+"3630 N Davidson St #4411, Charlotte, NC 28205",762,Sold 07/18/2022,"$313,810",1,1
+"3015 N Alexander St, Charlotte, NC 28205","1,836",Sold 07/15/2022,"$771,000",3,2
+"3630 N Davidson St #4412, Charlotte, NC 28205","1,104",Sold 07/15/2022,"$459,850",2,2
+"3630 N Davidson St #3307, Charlotte, NC 28205","1,452",Sold 07/13/2022,"$600,910",2,3
+"516 Herrin Ave, Charlotte, NC 28205","3,168",Sold 07/12/2022,$1.09M,4,4
+"529 E 34th St, Charlotte, NC 28205",693,Sold 07/12/2022,"$295,000",Studio,1
+"3630 N Davidson St #3306, Charlotte, NC 28205",742,Sold 07/12/2022,"$325,000",1,1
+"3630 N Davidson St #4405, Charlotte, NC 28205",750,Sold 07/12/2022,"$311,500",1,1
+"3630 N Davidson St #2206, Charlotte, NC 28205",742,Sold 07/12/2022,"$300,580",1,1
+"653 Raphael Pl, Charlotte, NC 28205","1,549",Sold 07/11/2022,"$375,000",2,3
+"529 E 34th St #306, Charlotte, NC 28205",663,Sold 07/11/2022,"$295,000",1,1
+"923 Warren Burgess Ln, Charlotte, NC 28205","1,242",Sold 07/08/2022,"$380,000",2,3
+"3419 Tappan Pl, Charlotte, NC 28205","3,207",Sold 07/08/2022,"$695,000",4,3
+"3630 N Davidson St #3304, Charlotte, NC 28205",750,Sold 07/08/2022,"$295,895",1,1
+"3630 N Davidson St #2212, Charlotte, NC 28205","1,104",Sold 07/08/2022,"$454,470",2,2
+"3630 N Davidson St #3311, Charlotte, NC 28205",767,Sold 07/08/2022,"$315,750",1,1
+"1029 Pierre Dr, Charlotte, NC 28205","1,472",Sold 07/07/2022,"$460,000",2,3
+"3630 N Davidson St #3305, Charlotte, NC 28205",750,Sold 07/07/2022,"$316,330",1,1
+"3630 N Davidson St #2204, Charlotte, NC 28205",750,Sold 07/07/2022,"$305,330",1,1
+"3630 N Davidson St #2208, Charlotte, NC 28205",767,Sold 07/07/2022,"$289,895",1,1
+"3630 N Davidson St #3313, Charlotte, NC 28205",967,Sold 07/07/2022,"$379,015",1,1
+"3630 N Davidson St #4404, Charlotte, NC 28205",750,Sold 07/07/2022,"$323,815",1,1
+"3630 N Davidson St #4401, Charlotte, NC 28205","1,481",Sold 07/07/2022,"$581,785",2,3
+"3123 N Davidson St SUITE 303, Charlotte, NC 28205","1,240",Sold 07/06/2022,"$415,000",2,2
+"3630 N Davidson St #2210, Charlotte, NC 28205",731,Sold 07/06/2022,"$273,780",1,1
+"3630 N Davidson St #2203, Charlotte, NC 28205",753,Sold 07/06/2022,"$291,935",1,1
+"1008 Leigh Ave, Charlotte, NC 28205","1,096",Sold 07/05/2022,"$470,000",3,2
+"3630 N Davidson St #3310, Charlotte, NC 28205",731,Sold 07/05/2022,"$288,265",1,1
+"3439 Oakwood Ave, Charlotte, NC 28205","1,800",Sold 07/01/2022,"$60,000",3,3
+"2229 Electric Ln, Charlotte, NC 28205",--,Sold 06/30/2022,"$505,000",--,--
+"2221 Electric Ln, Charlotte, NC 28205","2,339",Sold 06/30/2022,"$623,000",3,5
+"2221 Electric Ln #LNO0837, Charlotte, NC 28205","2,339",Sold 06/30/2022,"$622,916",3,5
+"2229 Electric Ln #LNO0835, Charlotte, NC 28205","1,583",Sold 06/30/2022,"$505,000",2,3
+"3630 N Davidson St #2209, Charlotte, NC 28205","1,108",Sold 06/30/2022,"$448,770",2,2
+"3630 N Davidson St #3302, Charlotte, NC 28205","1,092",Sold 06/30/2022,"$459,000",2,2
+"3630 N Davidson St #4403, Charlotte, NC 28205","1,104",Sold 06/30/2022,"$485,885",2,2
+"3630 N Davidson St #4408, Charlotte, NC 28205",742,Sold 06/30/2022,"$301,885",1,1
+"3258 Noda Blvd, Charlotte, NC 28205","1,678",Sold 06/29/2022,"$425,000",3,3
+"2135 Electric Ln, Charlotte, NC 28205",--,Sold 06/29/2022,"$590,500",--,--
+"2147 Electric Ln, Charlotte, NC 28205",--,Sold 06/29/2022,"$516,000",--,--
+"2131 Electric Ln, Charlotte, NC 28205",--,Sold 06/29/2022,"$477,000",--,--
+"2127 Electric Ln, Charlotte, NC 28205",--,Sold 06/29/2022,"$625,000",--,--
+"2143 Electric Ln, Charlotte, NC 28205",--,Sold 06/29/2022,"$612,000",--,--
+"2127 Electric Ln #LNO0624, Charlotte, NC 28205","2,339",Sold 06/29/2022,"$625,000",3,5
+"2143 Electric Ln #LNO0628, Charlotte, NC 28205","2,339",Sold 06/29/2022,"$611,828",3,5
+"2147 Electric Ln #LNO0629, Charlotte, NC 28205","1,691",Sold 06/29/2022,"$516,000",2,3
+"2135 Electric Ln #LNO0626, Charlotte, NC 28205","2,339",Sold 06/29/2022,"$590,150",3,5
+"3630 N Davidson St #2211, Charlotte, NC 28205",762,Sold 06/28/2022,"$308,330",1,1
+"3630 N Davidson St #2201, Charlotte, NC 28205","1,481",Sold 06/28/2022,"$584,370",2,3
+"3630 N Davidson St #4409, Charlotte, NC 28205","1,108",Sold 06/28/2022,"$458,120",2,2
+"3630 N Davidson St #4413, Charlotte, NC 28205",967,Sold 06/28/2022,"$385,565",1,1
+"1120 E 36th St, Charlotte, NC 28205","2,085",Sold 06/24/2022,"$535,000",2,4
+"700 Charles Ave, Charlotte, NC 28205",956,Sold 06/23/2022,"$469,900",2,2
+"2817 Whiting Ave, Charlotte, NC 28205","1,916",Sold 06/21/2022,"$725,000",3,4
+"3100 N Myers St, Charlotte, NC 28205","1,309",Sold 06/17/2022,"$550,000",2,2
+"3510 Card St, Charlotte, NC 28205","3,014",Sold 06/17/2022,"$871,250",5,4
+"1017 Pierre Dr, Charlotte, NC 28205","1,476",Sold 06/17/2022,"$478,500",2,3
+"937 E 36th St, Charlotte, NC 28205","2,098",Sold 06/17/2022,"$585,000",3,4
+"435 Steel Gardens Blvd, Charlotte, NC 28205","1,648",Sold 06/15/2022,"$490,000",2,3
+"3566 Warp St, Charlotte, NC 28205","1,314",Sold 06/08/2022,"$393,000",2,3
+"815 Woodside Ave, Charlotte, NC 28205",930,Sold 06/07/2022,"$365,000",2,1
+"3101 N Alexander St, Charlotte, NC 28205","2,268",Sold 06/03/2022,"$890,000",4,3
+"3953 Picasso Ct, Charlotte, NC 28205","1,005",Sold 06/01/2022,"$316,000",2,2
+"921 E 35th St, Charlotte, NC 28205","3,433",Sold 06/01/2022,$1.20M,4,3
+"1153 Charles Ave, Charlotte, NC 28205","2,317",Sold 05/31/2022,"$800,000",3,4
+"3425 Spencer St, Charlotte, NC 28205","1,536",Sold 05/26/2022,"$412,000",3,1.5
+"852 Academy St, Charlotte, NC 28205","1,138",Sold 05/26/2022,"$385,000",2,1
+"518 Donatello Ave, Charlotte, NC 28205","1,330",Sold 05/25/2022,"$371,000",2,3
+"626 Raphael Pl, Charlotte, NC 28205","1,312",Sold 05/24/2022,"$398,000",2,3
+"3646 Card St, Charlotte, NC 28205","1,679",Sold 05/19/2022,"$391,000",3,2.5
+"3415 Steel Yard Ct, Charlotte, NC 28205","1,716",Sold 05/18/2022,"$471,000",3,3
+"4017 Spencer Towns Ln, Charlotte, NC 28205","2,041",Sold 05/18/2022,"$555,000",3,3.5
+"825 Herrin Ave, Charlotte, NC 28205","1,726",Sold 05/16/2022,"$405,000",3,2
+"810 E 37th St, Charlotte, NC 28205","2,132",Sold 05/11/2022,"$835,000",4,3
+"3576 Artists Way, Charlotte, NC 28205","1,061",Sold 05/11/2022,"$374,995",2,2
+"3285 Noda Blvd, Charlotte, NC 28205","1,133",Sold 05/10/2022,"$385,000",3,2
+"4013 Spencer Towns Ln, Charlotte, NC 28205","1,992",Sold 05/09/2022,"$584,500",3,4
+"511 E 37th St, Charlotte, NC 28205","1,064",Sold 05/06/2022,"$400,000",3,1
+"3613 Artists Way, Charlotte, NC 28205","1,272",Sold 05/05/2022,"$362,000",2,2.5
+"3613 Artists Way #122, Charlotte, NC 28205","1,249",Sold 05/05/2022,"$362,000",2,3
+"1025 Charles Ave, Charlotte, NC 28205","1,831",Sold 05/03/2022,"$695,000",3,3
+"3441 Steel Yard Ct, Charlotte, NC 28205","1,624",Sold 05/03/2022,"$430,000",2,2
+"1106 E 36th St, Charlotte, NC 28205","1,697",Sold 05/02/2022,"$525,000",2,3
+"3600 Oakwood Ave, Charlotte, NC 28205","1,632",Sold 04/29/2022,"$707,397",4,4
+"3106 Whiting Ave, Charlotte, NC 28205","3,085",Sold 04/26/2022,$1.10M,4,3.5
+"3513 Warp St, Charlotte, NC 28205","2,811",Sold 04/25/2022,"$778,000",4,3
+"3033 N Alexander St, Charlotte, NC 28205","2,227",Sold 04/21/2022,$1.01M,3,2
+"926 Herrin Ave, Charlotte, NC 28205",864,Sold 04/20/2022,"$153,000",3,1
+"908 Academy St, Charlotte, NC 28205","1,994",Sold 04/19/2022,"$575,000",4,3
+"3121 N McDowell St, Charlotte, NC 28205","2,694",Sold 04/14/2022,$1.15M,3,4
+"813 Leigh Ave, Charlotte, NC 28205","2,326",Sold 04/11/2022,"$705,000",4,3
+"1026 Polaris Way, Charlotte, NC 28205","2,268",Sold 04/08/2022,"$765,000",3,4
+"1227 E 34th St, Charlotte, NC 28205",--,Sold 04/06/2022,"$375,000",--,--
+"1206 Charles Ave, Charlotte, NC 28205","1,340",Sold 03/28/2022,"$435,000",2,2
+"1206 Charles Ave, Charlotte, NC 28205",640,Sold 03/28/2022,"$435,000",2,2
+"3007 Yadkin Ave, Charlotte, NC 28205","1,500",Sold 03/25/2022,"$608,500",3,2
+"3036 Yadkin Ave, Charlotte, NC 28205","2,739",Sold 03/25/2022,$1.00M,3,2
+"1015 Charles Ave, Charlotte, NC 28205","2,378",Sold 03/24/2022,"$825,000",4,2
+"2824 Whiting Ave, Charlotte, NC 28205","1,504",Sold 03/24/2022,"$620,000",3,2
+"647 Raphael Pl, Charlotte, NC 28205","1,342",Sold 03/24/2022,"$362,500",2,3
+"925 E 35th St, Charlotte, NC 28205","1,458",Sold 03/23/2022,"$585,000",3,1
+"1409 Winston Dr, Charlotte, NC 28205","1,324",Sold 03/22/2022,"$430,000",3,2
+"3543 Warp St, Charlotte, NC 28205","1,340",Sold 03/21/2022,"$390,000",2,3
+"3021 Hudson St, Charlotte, NC 28205",878,Sold 03/18/2022,"$355,000",2,1
+"3471 Chagall Ct, Charlotte, NC 28205",946,Sold 03/16/2022,"$315,000",2,2
+"1032 Leigh Ave, Charlotte, NC 28205","3,457",Sold 03/15/2022,$1.20M,5,4
+"704 E 37th St, Charlotte, NC 28205",935,Sold 03/15/2022,"$472,500",2,1
+"635 Raphael Pl, Charlotte, NC 28205","1,400",Sold 03/15/2022,"$335,000",2,3
+"517 E 37th St, Charlotte, NC 28205",887,Sold 03/11/2022,"$415,000",2,1
+"1011 Herrin Ave, Charlotte, NC 28205","1,157",Sold 03/09/2022,"$425,000",2,1
+"832 Woodside Ave, Charlotte, NC 28205","2,846",Sold 03/03/2022,"$877,951",5,3
+"3967 Picasso Ct, Charlotte, NC 28205","1,437",Sold 03/03/2022,"$345,000",2,3
+"812 Herrin Ave, Charlotte, NC 28205","1,232",Sold 02/28/2022,"$386,000",2,1
+"3423 Steel Yard Ct, Charlotte, NC 28205","1,755",Sold 02/28/2022,"$425,500",3,3
+"636 Raphael Pl, Charlotte, NC 28205","1,078",Sold 02/22/2022,"$280,000",2,2
+"636 Raphael Pl #0, Charlotte, NC 28205",872,Sold 02/22/2022,"$279,900",2,2
+"3505 Artists Way, Charlotte, NC 28205","1,272",Sold 02/16/2022,"$335,000",2,3
+"1108 Herrin Ave, Charlotte, NC 28205","3,114",Sold 02/15/2022,"$650,000",3,2.5
+"3512 The Plz, Charlotte, NC 28205","1,548",Sold 02/09/2022,"$462,000",4,3
+"947 E 36th St, Charlotte, NC 28205","2,086",Sold 01/31/2022,"$520,000",3,4
+"2128 Electric Ln, Charlotte, NC 28205","1,656",Sold 01/31/2022,"$444,000",3,3.5
+"2128 Electric Ln #LNO0523, Charlotte, NC 28205","1,601",Sold 01/31/2022,"$443,818",2,3
+"2124 Electric Ln, Charlotte, NC 28205","2,367",Sold 01/28/2022,"$550,500",3,3.5
+"2124 Electric Ln #LNO0522, Charlotte, NC 28205","2,351",Sold 01/28/2022,"$550,368",3,5
+"522 Donatello Ave, Charlotte, NC 28205","1,000",Sold 01/27/2022,"$289,000",2,2
+"2120 Electric Ln, Charlotte, NC 28205","1,656",Sold 01/27/2022,"$430,500",3,3.5
+"2120 Electric Ln #LNO0521, Charlotte, NC 28205","1,613",Sold 01/27/2022,"$430,500",2,4
+"525 Steel Gardens Blvd, Charlotte, NC 28205","1,470",Sold 01/26/2022,"$410,000",2,3
+"2116 Electric Ln, Charlotte, NC 28205","2,367",Sold 01/26/2022,"$536,000",3,3.5
+"2112 Electric Ln, Charlotte, NC 28205","1,656",Sold 01/26/2022,"$436,500",3,3.5
+"2112 Electric Ln #LNO0519, Charlotte, NC 28205","1,595",Sold 01/26/2022,"$436,100",2,3
+"2116 Electric Ln #LNO0520, Charlotte, NC 28205","2,351",Sold 01/26/2022,"$536,000",3,5
+"2108 Electric Ln, Charlotte, NC 28205","2,367",Sold 01/25/2022,"$545,500",3,3.5
+"3947 Picasso Ct, Charlotte, NC 28205","1,400",Sold 01/21/2022,"$300,000",2,2.5
+"3116 N Davidson St #260, Charlotte, NC 28205",545,Sold 01/14/2022,"$205,000",Studio,1
+"1032 E 36th St, Charlotte, NC 28205",829,Sold 01/12/2022,"$240,000",Studio,1
+"3521 Oakwood Ave, Charlotte, NC 28205",954,Sold 01/06/2022,"$385,000",2,2
+"703 Charles Ave, Charlotte, NC 28205","2,390",Sold 01/06/2022,"$844,000",3,3
+"1013 E 36th St, Charlotte, NC 28205","1,595",Sold 12/30/2021,"$440,000",2,2.5
+"1003 E 36th St, Charlotte, NC 28205","1,656",Sold 12/30/2021,"$430,000",3,3.5
+"1015 E 36th St, Charlotte, NC 28205","1,656",Sold 12/30/2021,"$465,000",2,4
+"1015 E 36th St #LNO0312, Charlotte, NC 28205","1,601",Sold 12/30/2021,"$465,000",2,4
+"1011 E 36th St #LNO0310, Charlotte, NC 28205","1,595",Sold 12/30/2021,"$450,119",2,4
+"1013 E 36th St #LNO0311, Charlotte, NC 28205","1,595",Sold 12/30/2021,"$440,000",2,3
+"1003 E 36th St #LNO0206, Charlotte, NC 28205","1,595",Sold 12/30/2021,"$430,000",2,4
+"1007 E 36th St, Charlotte, NC 28205","1,656",Sold 12/29/2021,"$440,500",3,3.5
+"1005 E 36th St, Charlotte, NC 28205","1,656",Sold 12/29/2021,"$439,500",3,3.5
+"1009 E 36th St, Charlotte, NC 28205","2,367",Sold 12/29/2021,"$439,000",3,3.5
+"1009 E 36th St #LNO0309, Charlotte, NC 28205","1,601",Sold 12/29/2021,"$438,888",2,3
+"1007 E 36th St #LNO0208, Charlotte, NC 28205","1,601",Sold 12/28/2021,"$440,500",2,4
+"1005 E 36th St #LNO0207, Charlotte, NC 28205","1,595",Sold 12/28/2021,"$439,119",2,3
+"3957 Picasso Ct, Charlotte, NC 28205","1,790",Sold 12/22/2021,"$392,500",3,3
+"412 E 33rd St #33, Charlotte, NC 28205","2,196",Sold 12/21/2021,"$616,465",3,4
+"3656 Card St, Charlotte, NC 28205","1,452",Sold 12/20/2021,"$325,000",2,2.5
+"3217 N McDowell St, Charlotte, NC 28205","2,372",Sold 12/20/2021,"$682,500",3,3
+"416 E 33rd St, Charlotte, NC 28205","2,113",Sold 12/20/2021,"$606,500",3,3.5
+"3656 Card St BUILDING 11-1-34, Charlotte, NC 28205","1,532",Sold 12/20/2021,"$325,000",2,3
+"416 E 33rd St UNIT 32, Charlotte, NC 28205","2,203",Sold 12/20/2021,"$606,258",3,4
+"3123 N Davidson St SUITE 205, Charlotte, NC 28205",710,Sold 12/16/2021,"$265,000",1,2
+"420 E 33rd St, Charlotte, NC 28205","2,183",Sold 12/16/2021,"$589,500",3,3.5
+"428 E 33rd St, Charlotte, NC 28205","2,203",Sold 12/16/2021,"$614,500",3,4
+"420 E 33rd St #31, Charlotte, NC 28205","2,162",Sold 12/16/2021,"$589,265",3,4
+"428 E 33rd St #29, Charlotte, NC 28205","2,203",Sold 12/16/2021,"$614,230",3,4
+"1056 E 36th St, Charlotte, NC 28205",840,Sold 12/14/2021,"$254,900",1,1
+"424 E 33rd St, Charlotte, NC 28205","2,209",Sold 12/14/2021,"$596,000",3,3.5
+"424 E 33rd St UNIT 30, Charlotte, NC 28205","2,207",Sold 12/14/2021,"$595,640",3,4
+"3420 Holt St, Charlotte, NC 28205","1,295",Sold 12/13/2021,"$505,212",3,2
+"2908 Textile Way, Charlotte, NC 28205","1,101",Sold 12/10/2021,"$350,000",2,3
+"1215 E 34th St, Charlotte, NC 28205","3,520",Sold 12/10/2021,"$930,000",2,--
+"432 E 33rd St UNIT 28, Charlotte, NC 28205","2,234",Sold 12/10/2021,"$608,550",3,4
+"1108 E 36th St, Charlotte, NC 28205","2,134",Sold 12/09/2021,"$500,000",2,4
+"440 E 33rd St, Charlotte, NC 28205","2,064",Sold 12/09/2021,"$603,000",3,3.5
+"440 E 33rd St UNIT 26, Charlotte, NC 28205","2,196",Sold 12/09/2021,"$602,790",3,4
+"436 E 33rd St, Charlotte, NC 28205","2,064",Sold 12/08/2021,"$565,500",3,3.5
+"436 E 33rd St UNIT 27, Charlotte, NC 28205","2,203",Sold 12/08/2021,"$565,190",3,4
+"959 Warren Burgess Ln, Charlotte, NC 28205","1,268",Sold 12/07/2021,"$305,000",2,3
+"801 Drummond Ave, Charlotte, NC 28205","1,539",Sold 11/24/2021,"$470,000",3,2
+"1142 Matheson Ave, Charlotte, NC 28205","2,780",Sold 11/24/2021,"$910,000",4,4
+"2833 Holt St, Charlotte, NC 28205","3,216",Sold 11/24/2021,"$910,000",4,4
+"3655 Warp St, Charlotte, NC 28205","1,867",Sold 11/17/2021,"$374,900",3,3
+"519 E 34th St, Charlotte, NC 28205","1,203",Sold 11/16/2021,"$107,000",2,2
+"719 E 35th St, Charlotte, NC 28205","2,807",Sold 11/12/2021,"$895,000",4,4
+"1134 E 36th St, Charlotte, NC 28205","2,113",Sold 11/12/2021,"$495,000",2,4
+"821 E 35th St, Charlotte, NC 28205","1,454",Sold 11/10/2021,"$962,000",2,2
+"2824 N Davidson St, Charlotte, NC 28205","1,256",Sold 11/05/2021,"$760,000",3,1
+"2829 Holt St, Charlotte, NC 28205","3,216",Sold 11/04/2021,"$899,000",4,4
+"3335 Bessemer St, Charlotte, NC 28205","1,523",Sold 11/04/2021,"$410,000",2,3
+"2829 Holt St, Charlotte, NC 28205","2,792",Sold 11/04/2021,"$899,000",4,4
+"3211 Spencer St, Charlotte, NC 28205","2,912",Sold 11/03/2021,"$962,000",4,4
+"1157 Charles Ave, Charlotte, NC 28205","2,245",Sold 11/03/2021,"$715,100",3,4
+"3269 Noda Blvd, Charlotte, NC 28205",615,Sold 11/02/2021,"$203,000",1,1
+"3267 Noda Blvd, Charlotte, NC 28205",600,Sold 11/02/2021,"$202,000",1,1
+"905 Steel House Blvd, Charlotte, NC 28205","3,224",Sold 11/01/2021,"$611,000",4,4
+"3312 Spencer St, Charlotte, NC 28205","2,667",Sold 11/01/2021,"$765,000",3,3
+"3819 Picasso Ct, Charlotte, NC 28205",941,Sold 10/29/2021,"$280,000",2,2
+"2107 Electric Ln, Charlotte, NC 28205","2,367",Sold 10/29/2021,"$450,000",3,3.5
+"2111 Electric Ln, Charlotte, NC 28205","1,656",Sold 10/27/2021,"$410,000",3,3.5
+"2115 Electric Ln, Charlotte, NC 28205","1,656",Sold 10/27/2021,"$402,500",3,3.5
+"2123 Electric Ln, Charlotte, NC 28205","1,607",Sold 10/22/2021,"$413,000",3,2.5
+"3020 Whiting Ave, Charlotte, NC 28205","3,107",Sold 10/21/2021,"$903,000",4,4.5
+"2119 Electric Ln, Charlotte, NC 28205","1,656",Sold 10/21/2021,"$421,000",3,3.5
+"443 Steel Gardens Blvd, Charlotte, NC 28205","1,465",Sold 10/20/2021,"$27,000",2,3
+"3455 Steel Yard Ct, Charlotte, NC 28205","1,700",Sold 10/19/2021,"$397,000",3,3
+"3455 Steel Yard Ct #86, Charlotte, NC 28205","1,700",Sold 10/19/2021,"$397,000",3,3
+"956 Warren Burgess Ln, Charlotte, NC 28205","1,737",Sold 10/18/2021,"$390,000",3,2.5
+"956 Warren Burgess Ln #61, Charlotte, NC 28205","1,771",Sold 10/18/2021,"$390,000",3,3
+"1212 E 35th St, Charlotte, NC 28205","1,628",Sold 10/13/2021,"$630,000",2,1
+"3615 The Plz, Charlotte, NC 28205","1,621",Sold 10/08/2021,"$380,000",3,3
+"2976 Textile Way, Charlotte, NC 28205","1,243",Sold 10/08/2021,"$322,500",2,2
+"529 Donatello Ave, Charlotte, NC 28205","1,006",Sold 10/07/2021,"$279,000",2,2
+"3616 Oakwood Ave, Charlotte, NC 28205","1,500",Sold 10/01/2021,"$519,000",3,2
+"642 Raphael Pl, Charlotte, NC 28205","1,414",Sold 09/30/2021,"$313,218",2,3
+"1419 Herrin Ave, Charlotte, NC 28205",900,Sold 09/28/2021,"$271,000",3,1
+"3100 N Alexander St, Charlotte, NC 28205","1,117",Sold 09/24/2021,"$400,000",2,1
+"447 Steel Gardens Blvd, Charlotte, NC 28205","1,492",Sold 09/21/2021,"$385,000",2,3
+"1130 E 36th St, Charlotte, NC 28205","2,113",Sold 09/21/2021,"$500,000",2,4
+"939 Warren Burgess Ln, Charlotte, NC 28205","1,284",Sold 09/17/2021,"$282,638",2,3
+"600 Herrin Ave, Charlotte, NC 28205","3,100",Sold 09/15/2021,"$950,000",4,5
+"3501 Oakwood Ave, Charlotte, NC 28205","1,376",Sold 09/13/2021,"$380,000",3,1
+"3012 N Alexander St, Charlotte, NC 28205",775,Sold 09/10/2021,"$350,000",1,1
+"1211 Charles Ave, Charlotte, NC 28205","2,750",Sold 09/10/2021,"$690,000",4,3.5
+"3020 N Alexander St, Charlotte, NC 28205","4,668",Sold 09/10/2021,$1.15M,2,--
+"1121 Charles Ave, Charlotte, NC 28205","2,750",Sold 09/10/2021,"$690,000",4,4
+"904 Anderson St, Charlotte, NC 28205","1,026",Sold 09/08/2021,"$387,000",2,2
+"1109 Leigh Ave, Charlotte, NC 28205","1,090",Sold 09/03/2021,"$330,000",2,1
+"3835 Picasso Ct, Charlotte, NC 28205","1,454",Sold 09/03/2021,"$724,000",2,3
+"3314 N Alexander St, Charlotte, NC 28205",938,Sold 09/01/2021,"$331,000",2,1
+"3534 Card St, Charlotte, NC 28205","2,584",Sold 09/01/2021,"$776,000",3,3
+"1024 E 36th St, Charlotte, NC 28205",834,Sold 09/01/2021,"$245,000",1,1
+"632 Raphael Pl, Charlotte, NC 28205","1,438",Sold 09/01/2021,"$310,000",2,3
+"1024 36th St, Charlotte, NC 28205",834,Sold 09/01/2021,"$245,000",1,1
+"3110 Holt St, Charlotte, NC 28205","2,835",Sold 08/31/2021,"$665,000",4,3
+"1048 E 36th St, Charlotte, NC 28205",862,Sold 08/31/2021,"$245,000",1,1
+"715 E 28th St, Charlotte, NC 28205","2,197",Sold 08/24/2021,"$697,990",4,3
+"607 Raphael Pl, Charlotte, NC 28205","1,461",Sold 08/23/2021,"$313,000",2,3
+"1034 Charles Ave, Charlotte, NC 28205","1,446",Sold 08/20/2021,"$300,000",4,--
+"3221 N McDowell St, Charlotte, NC 28205","2,385",Sold 08/20/2021,"$675,000",3,3
+"3475 Chagall Ct, Charlotte, NC 28205","1,000",Sold 08/16/2021,"$270,000",1,1
+"3254 Noda Blvd, Charlotte, NC 28205","1,775",Sold 08/12/2021,"$389,000",3,2.5
+"815 Matheson Ave, Charlotte, NC 28205",869,Sold 08/06/2021,"$352,500",2,1
+"728 Charles Ave, Charlotte, NC 28205","1,476",Sold 08/06/2021,"$500,000",3,2
+"2921 Clemson Ave, Charlotte, NC 28205","1,057",Sold 08/05/2021,"$314,000",3,1
+"2956 Textile Way, Charlotte, NC 28205","1,491",Sold 08/05/2021,"$400,000",2,3
+"3205 N Davidson St UNIT 205, Charlotte, NC 28205",754,Sold 08/04/2021,"$255,000",1,1
+"1022 Polaris Way, Charlotte, NC 28205","2,253",Sold 08/03/2021,"$706,000",3,3.5
+"1022 Polaris Way #7, Charlotte, NC 28205","2,229",Sold 08/03/2021,"$705,800",3,4
+"423 Steel Gardens Blvd, Charlotte, NC 28205","1,455",Sold 07/30/2021,"$373,500",2,3
+"1120 Academy St, Charlotte, NC 28205",900,Sold 07/29/2021,"$375,000",3,1
+"3412 Holt St, Charlotte, NC 28205","1,050",Sold 07/29/2021,"$375,000",3,1
+"3925 Picasso Ct, Charlotte, NC 28205","1,324",Sold 07/28/2021,"$335,000",2,3
+"3450 Chagall Ct, Charlotte, NC 28205","1,333",Sold 07/26/2021,"$330,000",2,3
+"3259 Noda Blvd, Charlotte, NC 28205",609,Sold 07/26/2021,"$180,000",1,1
+"943 Warren Burgess Ln, Charlotte, NC 28205","1,206",Sold 07/23/2021,"$303,500",2,3
+"3654 Card St, Charlotte, NC 28205","1,750",Sold 07/22/2021,"$365,000",3,3
+"1020 E 35th St, Charlotte, NC 28205","1,764",Sold 07/20/2021,"$665,000",3,3
+"1007 Matheson Ave, Charlotte, NC 28205","3,412",Sold 07/14/2021,"$885,000",3,4
+"619 Raphael Pl, Charlotte, NC 28205","1,426",Sold 07/12/2021,"$310,000",2,3
+"3427 Oakwood Ave, Charlotte, NC 28205","1,168",Sold 07/09/2021,"$275,000",2,1
+"3443 Spencer St, Charlotte, NC 28205","1,710",Sold 06/30/2021,"$395,000",3,3
+"715 E 35th St, Charlotte, NC 28205","2,720",Sold 06/29/2021,"$875,000",5,3
+"3335 N McDowell St, Charlotte, NC 28205","2,995",Sold 06/28/2021,"$775,000",4,3
+"507 E 34th St, Charlotte, NC 28205",770,Sold 06/28/2021,"$217,500",Studio,1
+"507 E 34th St #202, Charlotte, NC 28205",760,Sold 06/28/2021,"$217,500",1,1
+"3110 Whiting Ave, Charlotte, NC 28205","2,531",Sold 06/24/2021,"$250,000",4,3.5
+"651 Raphael Pl, Charlotte, NC 28205","1,880",Sold 06/23/2021,"$361,000",3,3
+"3560 Artists Way, Charlotte, NC 28205","1,113",Sold 06/22/2021,"$340,000",2,2
+"3560 Artists Way #1, Charlotte, NC 28205","1,127",Sold 06/22/2021,"$340,000",2,2
+"3021 Whiting Ave, Charlotte, NC 28205","1,109",Sold 06/18/2021,"$339,000",1,1
+"1120 E 35th St, Charlotte, NC 28205","2,259",Sold 06/17/2021,"$600,000",3,3
+"537 Steel Gardens Blvd, Charlotte, NC 28205","1,446",Sold 06/17/2021,"$375,000",2,3
+"3639 Warp St, Charlotte, NC 28205","1,434",Sold 06/14/2021,"$305,000",2,3
+"3570 Warp St, Charlotte, NC 28205","1,008",Sold 06/14/2021,"$261,000",2,2
+"926 Steel House Blvd, Charlotte, NC 28205","2,926",Sold 06/14/2021,"$570,000",3,4
+"915 Leigh Ave, Charlotte, NC 28205","1,786",Sold 06/11/2021,"$586,000",3,2
+"904 Matheson Ave, Charlotte, NC 28205",720,Sold 05/28/2021,"$293,000",2,1
+"3515 Spencer St, Charlotte, NC 28205","1,715",Sold 05/26/2021,"$375,000",3,3
+"3123 N Davidson St SUITE 304, Charlotte, NC 28205","1,196",Sold 05/21/2021,"$350,000",2,2
+"518 Steel Gardens Blvd, Charlotte, NC 28205","1,784",Sold 05/19/2021,"$375,000",3,3
+"3306 Holt St, Charlotte, NC 28205","1,900",Sold 05/14/2021,"$620,000",4,3
+"812 Leigh Ave, Charlotte, NC 28205","1,191",Sold 05/12/2021,"$377,500",3,1
+"500 Herrin Ave, Charlotte, NC 28205","1,289",Sold 05/12/2021,"$481,000",2,2
+"520 Donatello Ave, Charlotte, NC 28205",988,Sold 05/11/2021,"$247,000",2,2
+"3721 Picasso Ct, Charlotte, NC 28205","1,060",Sold 05/11/2021,"$219,000",2,2
+"3257 Noda Blvd, Charlotte, NC 28205",610,Sold 05/11/2021,"$183,500",1,1
+"3805 Picasso Ct, Charlotte, NC 28205","1,439",Sold 05/07/2021,"$305,000",2,3
+"610 Raphael Pl, Charlotte, NC 28205","1,670",Sold 05/07/2021,"$325,000",3,3
+"534 Steel Gardens Blvd, Charlotte, NC 28205","1,675",Sold 05/05/2021,"$370,000",3,3
+"904 Warren Burgess Ln, Charlotte, NC 28205","1,809",Sold 05/03/2021,"$355,000",3,3
+"3039 N Alexander St, Charlotte, NC 28205","2,564",Sold 04/30/2021,"$720,000",4,3
+"3807 Picasso Ct, Charlotte, NC 28205","1,763",Sold 04/29/2021,"$360,000",3,3
+"3123 N Davidson St SUITE 306, Charlotte, NC 28205","1,256",Sold 04/28/2021,"$355,000",2,2
+"908 Anderson St, Charlotte, NC 28205","1,246",Sold 04/26/2021,"$436,000",2,3
+"3556 Warp St, Charlotte, NC 28205",988,Sold 04/26/2021,"$231,000",2,2
+"3525 Artists Way, Charlotte, NC 28205","1,274",Sold 04/23/2021,"$297,500",2,3
+"1507 & 1509 Matheson Ave, Charlotte, NC 28205","1,562",Sold 04/23/2021,"$409,000",2,--
+"515 E 34th St, Charlotte, NC 28205",720,Sold 04/16/2021,"$217,000",1,1
+"923 Steel House Blvd, Charlotte, NC 28205","3,010",Sold 04/16/2021,"$535,000",4,4
+"515 E 34th St #205, Charlotte, NC 28205",710,Sold 04/16/2021,"$217,000",1,1
+"525 Donatello Ave, Charlotte, NC 28205","1,322",Sold 04/09/2021,"$300,000",2,3
+"3009 Clemson Ave, Charlotte, NC 28205",832,Sold 04/08/2021,"$342,500",2,1
+"2816 Whiting Ave, Charlotte, NC 28205","2,458",Sold 04/06/2021,"$612,000",3,4
+"2949 Textile Way, Charlotte, NC 28205",661,Sold 04/06/2021,"$200,000",1,1
+"533 Donatello Ave, Charlotte, NC 28205","1,322",Sold 04/05/2021,"$270,000",2,3
+"3529 Artists Way, Charlotte, NC 28205","1,280",Sold 03/25/2021,"$290,000",2,3
+"825 E 35th St, Charlotte, NC 28205","2,087",Sold 03/23/2021,"$585,000",3,2
+"801 E 35th St, Charlotte, NC 28205","1,366",Sold 03/15/2021,"$441,000",3,2
+"2910 N Alexander St, Charlotte, NC 28205","2,721",Sold 03/12/2021,"$658,000",3,3
+"1126 E 36th St, Charlotte, NC 28205","2,109",Sold 03/12/2021,"$440,000",2,4
+"3612 Oakwood Ave, Charlotte, NC 28205","2,512",Sold 03/11/2021,"$527,000",4,3
+"2953 Textile Way, Charlotte, NC 28205",659,Sold 03/09/2021,"$191,250",1,1
+"3941 Picasso Ct, Charlotte, NC 28205","1,312",Sold 03/04/2021,"$272,500",2,3
+"538 Steel Gardens Blvd, Charlotte, NC 28205","1,812",Sold 03/04/2021,"$375,000",3,3
+"1211 E 35th St, Charlotte, NC 28205","2,154",Sold 03/03/2021,"$775,000",5,4
+"3617 Card St, Charlotte, NC 28205","1,057",Sold 03/03/2021,"$200,000",2,2
+"1003 Pierre Dr, Charlotte, NC 28205","1,523",Sold 03/03/2021,"$377,000",2,3
+"1207 E 36th St #5, Charlotte, NC 28205","2,382",Sold 03/02/2021,"$489,998",3,3
+"3617 Artists Way, Charlotte, NC 28205","1,255",Sold 03/01/2021,"$275,000",2,3
+"824 Charles Ave, Charlotte, NC 28205","2,397",Sold 03/01/2021,"$660,000",4,3
+"3446 Chagall Ct, Charlotte, NC 28205","1,380",Sold 02/26/2021,"$292,000",2,3
+"2728 N Davidson St, Charlotte, NC 28205",910,Sold 02/25/2021,"$287,500",2,1
+"3442 Chagall Ct, Charlotte, NC 28205","1,373",Sold 02/23/2021,"$294,500",2,3
+"1127 Leigh Ave, Charlotte, NC 28205","2,009",Sold 02/19/2021,"$468,000",3,2
+"3564 Warp St, Charlotte, NC 28205","1,060",Sold 02/19/2021,"$220,000",2,2
+"3611 Card St, Charlotte, NC 28205","1,428",Sold 02/19/2021,"$275,000",2,3
+"914 Warren Burgess Ln, Charlotte, NC 28205","1,770",Sold 02/19/2021,"$350,000",2,2.5
+"914 Warren Burgess Ln #2701, Charlotte, NC 28205","1,758",Sold 02/19/2021,"$350,000",3,3
+"459 Steel Gardens Blvd, Charlotte, NC 28205","1,507",Sold 02/17/2021,"$359,000",2,3
+"800 E 37th St, Charlotte, NC 28205","2,008",Sold 02/11/2021,"$601,127",3,3
+"929 E 35th St, Charlotte, NC 28205","3,032",Sold 02/11/2021,"$879,900",4,3
+"1207 E 36th St #7, Charlotte, NC 28205","2,065",Sold 02/11/2021,"$505,000",3,3
+"3261 Noda Blvd, Charlotte, NC 28205",600,Sold 02/10/2021,"$185,000",1,1
+"2984 Textile Way, Charlotte, NC 28205","1,852",Sold 02/05/2021,"$390,000",4,4
+"3623 Warp St, Charlotte, NC 28205","1,857",Sold 02/04/2021,"$323,000",3,3
+"965 E 36th St, Charlotte, NC 28205",--,Sold 02/02/2021,$4.70M,--,--
+"3103 N Myers St, Charlotte, NC 28205","2,484",Sold 01/30/2021,"$565,000",4,3
+"3419 Steel Yard Ct, Charlotte, NC 28205","1,700",Sold 01/28/2021,"$352,500",3,3
+"608 Patterson St, Charlotte, NC 28205","1,366",Sold 01/22/2021,"$283,000",2,3
+"652 Raphael Pl, Charlotte, NC 28205","1,424",Sold 01/19/2021,"$272,500",2,3
+"3539 Spencer St, Charlotte, NC 28205","1,845",Sold 01/11/2021,"$351,000",3,3
+"1207 E 36th St #1, Charlotte, NC 28205","2,135",Sold 01/07/2021,"$479,740",4,3
+"3813 Picasso Ct, Charlotte, NC 28205",979,Sold 01/06/2021,"$215,000",2,2
+"464 E 33rd St, Charlotte, NC 28205","2,187",Sold 12/31/2020,"$578,000",3,4.5
+"464 E 33rd St #20, Charlotte, NC 28205","2,234",Sold 12/31/2020,"$578,000",3,5
+"811 E 36th St, Charlotte, NC 28205",--,Sold 12/29/2020,"$4,000",--,--
+"2804 N Myers St, Charlotte, NC 28205","1,760",Sold 12/22/2020,"$505,500",3,3
+"1022 Academy St, Charlotte, NC 28205","1,991",Sold 12/18/2020,"$575,000",4,3
+"3467 Steel Yard Ct, Charlotte, NC 28205","1,693",Sold 12/17/2020,"$348,000",3,3
+"3627 Warp St, Charlotte, NC 28205","1,006",Sold 12/15/2020,"$200,000",2,2
+"933 E 36th St, Charlotte, NC 28205","2,026",Sold 12/07/2020,"$500,000",3,4
+"1026 Leigh Ave, Charlotte, NC 28205","1,509",Sold 12/03/2020,"$450,000",3,2
+"1207 E 36th St #2, Charlotte, NC 28205","2,382",Sold 12/03/2020,"$505,000",3,3
+"3717 Picasso Ct, Charlotte, NC 28205","1,428",Sold 12/02/2020,"$253,000",2,2.5
+"3601 Oakwood Ave, Charlotte, NC 28205","2,325",Sold 11/30/2020,"$580,000",3,3
+"629 Raphael Pl, Charlotte, NC 28205","1,065",Sold 11/24/2020,"$200,000",2,2
+"3315 Bessemer St, Charlotte, NC 28205","1,564",Sold 11/24/2020,"$349,500",2,3
+"1113 Herrin Ave, Charlotte, NC 28205",950,Sold 11/23/2020,"$865,000",2,1
+"519 Donatello Ave, Charlotte, NC 28205","1,420",Sold 11/20/2020,"$270,000",2,3
+"1162 E 36th St, Charlotte, NC 28205","2,109",Sold 11/20/2020,"$431,000",2,3.5
+"3420 Tappan Pl, Charlotte, NC 28205","1,870",Sold 11/20/2020,"$425,000",3,2.5
+"1162 E 36th St UNIT HLT0003, Charlotte, NC 28205",--,Sold 11/20/2020,"$430,833",--,--
+"1162 E 36th St UNIT HLT0003, Charlotte, NC 28205","2,109",Sold 11/20/2020,"$430,833",2,4
+"1000 Herrin Ave, Charlotte, NC 28205","2,812",Sold 11/19/2020,"$754,922",5,3
+"3516 Spencer St, Charlotte, NC 28205","1,600",Sold 11/18/2020,"$400,000",3,2
+"913 E 36th St, Charlotte, NC 28205","2,072",Sold 11/18/2020,"$493,000",3,4
+"913 E 36th St #3, Charlotte, NC 28205","2,026",Sold 11/18/2020,"$492,875",3,4
+"3440 Oakwood Ave, Charlotte, NC 28205","1,012",Sold 11/17/2020,"$350,000",3,1
+"3023 N McDowell St, Charlotte, NC 28205","1,331",Sold 11/13/2020,"$355,000",2,1
+"539 Donatello Ave, Charlotte, NC 28205",929,Sold 11/13/2020,"$205,000",2,2
+"3520 Spencer St, Charlotte, NC 28205","1,573",Sold 11/13/2020,"$480,000",3,2
+"909 E 36th St, Charlotte, NC 28205","2,041",Sold 11/10/2020,"$465,000",4,3.5
+"909 E 36th St #2, Charlotte, NC 28205","1,986",Sold 11/10/2020,"$464,567",3,4
+"916 E 36th St, Charlotte, NC 28205","1,205",Sold 11/03/2020,"$365,000",3,1
+"444 E 33rd St, Charlotte, NC 28205","2,158",Sold 10/30/2020,"$588,000",3,3.5
+"905 E 36th St, Charlotte, NC 28205","2,083",Sold 10/30/2020,"$496,000",3,3.5
+"905 E 36th St #1, Charlotte, NC 28205","2,026",Sold 10/30/2020,"$495,640",3,4
+"444 E 33rd St #25, Charlotte, NC 28205","2,203",Sold 10/30/2020,"$587,730",3,4
+"546 Donatello Ave, Charlotte, NC 28205","1,006",Sold 10/29/2020,"$215,000",2,2
+"815 Drummond Ave, Charlotte, NC 28205","1,076",Sold 10/26/2020,"$415,000",3,2
+"506 E 37th St, Charlotte, NC 28205","2,440",Sold 10/23/2020,"$599,900",3,4
+"480 E 33rd St, Charlotte, NC 28205","2,064",Sold 10/23/2020,"$615,000",3,3.5
+"480 E 33rd St #16, Charlotte, NC 28205","2,162",Sold 10/23/2020,"$614,715",3,4
+"800 Woodside Ave, Charlotte, NC 28205","2,928",Sold 10/22/2020,"$800,000",3,3
+"3943 Picasso Ct, Charlotte, NC 28205",940,Sold 10/22/2020,"$213,750",2,2
+"448 E 33rd St, Charlotte, NC 28205","2,151",Sold 10/21/2020,"$581,000",3,3.5
+"448 E 33rd St #24, Charlotte, NC 28205","2,203",Sold 10/21/2020,"$580,710",3,4
+"737 Herrin Ave, Charlotte, NC 28205","2,585",Sold 10/16/2020,"$468,000",4,3
+"915 Warren Burgess Ln, Charlotte, NC 28205","1,250",Sold 10/15/2020,"$265,000",2,3
+"452 E 33rd St, Charlotte, NC 28205","2,145",Sold 10/14/2020,"$578,000",3,3.5
+"452 E 33rd St #23, Charlotte, NC 28205","2,162",Sold 10/14/2020,"$577,689",3,4
+"1164 E 36th St, Charlotte, NC 28205","2,109",Sold 10/08/2020,"$438,500",2,4
+"1164 E 36th St UNIT HLT0002, Charlotte, NC 28205","2,109",Sold 10/08/2020,"$438,185",2,4
+"1324 E 35th St, Charlotte, NC 28205","1,291",Sold 10/06/2020,"$292,500",3,2
+"3111 Whiting Ave, Charlotte, NC 28205","2,261",Sold 10/06/2020,"$648,000",3,3.5
+"3111 Whiting Ave #2, Charlotte, NC 28205","2,304",Sold 10/06/2020,"$647,900",3,4
+"3921 Picasso Ct, Charlotte, NC 28205","1,006",Sold 10/05/2020,"$208,000",2,2
+"1018 Polaris Way, Charlotte, NC 28205","2,300",Sold 10/05/2020,"$635,000",3,3.5
+"1018 Polaris Way #8, Charlotte, NC 28205","2,304",Sold 10/05/2020,"$634,570",3,4
+"1100 E 34th St, Charlotte, NC 28205",905,Sold 10/02/2020,"$350,000",2,1
+"616 Patterson St, Charlotte, NC 28205","1,371",Sold 09/29/2020,"$277,000",2,3
+"2608 Pinckney Ave, Charlotte, NC 28205","1,200",Sold 09/28/2020,"$435,000",2,2
+"460 E 33rd St, Charlotte, NC 28205","2,151",Sold 09/28/2020,"$565,500",3,3.5
+"460 E 33rd St #21, Charlotte, NC 28205","2,203",Sold 09/28/2020,"$565,296",3,4
+"1014 Polaris Way, Charlotte, NC 28205","2,258",Sold 09/25/2020,"$615,000",3,3.5
+"1014 Polaris Way #9, Charlotte, NC 28205","2,229",Sold 09/25/2020,"$614,900",3,4
+"3905 Picasso Ct, Charlotte, NC 28205","1,453",Sold 09/24/2020,"$275,000",2,3
+"468 E 33rd St, Charlotte, NC 28205","2,187",Sold 09/24/2020,"$590,000",3,4.5
+"3905 Picasso Ct #3905, Charlotte, NC 28205",--,Sold 09/24/2020,"$275,000",--,--
+"3905 Picasso Ct #3905, Charlotte, NC 28205","1,455",Sold 09/24/2020,"$275,000",2,3
+"468 E 33rd St #19, Charlotte, NC 28205","2,234",Sold 09/24/2020,"$589,760",3,5
+"716 E 35th St, Charlotte, NC 28205","1,714",Sold 09/23/2020,"$552,000",3,3
+"3024 Holt St, Charlotte, NC 28205","1,213",Sold 09/23/2020,"$395,500",2,2
+"472 E 33rd St, Charlotte, NC 28205","2,064",Sold 09/23/2020,"$572,500",3,3.5
+"472 E 33rd St #18, Charlotte, NC 28205","2,203",Sold 09/23/2020,"$572,270",3,4
+"476 E 33rd St, Charlotte, NC 28205","2,144",Sold 09/22/2020,"$573,000",3,3.5
+"476 E 33rd St #17, Charlotte, NC 28205","2,203",Sold 09/22/2020,"$572,918",3,4
+"3208 Spencer St, Charlotte, NC 28205","1,805",Sold 09/18/2020,"$590,000",3,3
+"605 E 37th St, Charlotte, NC 28205","3,825",Sold 09/16/2020,"$855,000",4,3.5
+"3008 Holt St, Charlotte, NC 28205",968,Sold 09/15/2020,"$250,000",2,1
+"1008 Matheson Ave, Charlotte, NC 28205","2,553",Sold 09/11/2020,"$627,500",4,4
+"1026 Polaris Way #6, Charlotte, NC 28205","2,279",Sold 09/11/2020,"$655,962",3,4
+"3123 N Davidson St, Charlotte, NC 28205","1,250",Sold 09/11/2020,"$250,000",2,2
+"3123 N Davidson St SUITE 201, Charlotte, NC 28205","1,006",Sold 09/10/2020,"$250,000",1,2
+"617 Raphael Pl, Charlotte, NC 28205","1,440",Sold 09/04/2020,"$245,000",2,2.5
+"3109 Whiting Ave, Charlotte, NC 28205","2,258",Sold 09/04/2020,"$615,000",3,3.5
+"3109 Whiting Ave #3, Charlotte, NC 28205","2,229",Sold 09/04/2020,"$615,000",3,4
+"3113 Whiting Ave #1, Charlotte, NC 28205","2,250",Sold 09/04/2020,"$683,952",3,4
+"1010 Polaris Way, Charlotte, NC 28205","2,286",Sold 09/02/2020,"$646,000",3,3.5
+"1010 Polaris Way #10, Charlotte, NC 28205","2,250",Sold 09/02/2020,"$645,800",3,4
+"3519 Oakwood Ave, Charlotte, NC 28205","1,603",Sold 09/01/2020,"$458,000",2,3
+"463 Steel Gardens Blvd, Charlotte, NC 28205","1,500",Sold 08/31/2020,"$345,000",2,3
+"900 Matheson Ave, Charlotte, NC 28205","2,770",Sold 08/28/2020,"$667,000",4,4
+"921 Leigh Ave, Charlotte, NC 28205","2,578",Sold 08/27/2020,"$659,000",4,3
+"648 Raphael Pl, Charlotte, NC 28205","1,434",Sold 08/27/2020,"$260,000",2,3
+"704 Matheson Ave, Charlotte, NC 28205",720,Sold 08/24/2020,"$285,000",2,2
+"1011 Pierre Dr, Charlotte, NC 28205","1,546",Sold 08/24/2020,"$371,000",2,3
+"3633 Warp St, Charlotte, NC 28205","1,400",Sold 08/20/2020,"$265,000",2,2.5
+"3633 Warp St #3633, Charlotte, NC 28205","1,414",Sold 08/20/2020,"$265,000",2,3
+"3107 Whiting Ave, Charlotte, NC 28205","2,285",Sold 08/19/2020,"$609,500",3,3.5
+"3105 Whiting Ave #5, Charlotte, NC 28205","2,279",Sold 08/19/2020,"$637,900",3,4
+"3107 Whiting Ave #4, Charlotte, NC 28205","2,304",Sold 08/19/2020,"$609,320",3,4
+"901 Matheson Ave, Charlotte, NC 28205","2,587",Sold 08/14/2020,"$639,000",4,4
+"1158 E 36th St, Charlotte, NC 28205","2,109",Sold 08/14/2020,"$437,000",2,4
+"1158 E 36th St UNIT HLT0005, Charlotte, NC 28205","2,109",Sold 08/14/2020,"$436,833",2,4
+"3638 Card St, Charlotte, NC 28205","1,424",Sold 08/13/2020,"$258,000",2,3
+"1207 E 36th St #6, Charlotte, NC 28205","2,382",Sold 08/12/2020,"$510,000",3,3
+"617 E 37th St, Charlotte, NC 28205","2,471",Sold 08/07/2020,"$609,000",3,3
+"2980 Textile Way, Charlotte, NC 28205","1,278",Sold 08/07/2020,"$240,000",2,2
+"1112 E 36th St, Charlotte, NC 28205","2,109",Sold 08/07/2020,"$431,500",2,3.5
+"1126 E 36th St #HLT0023, Charlotte, NC 28205","2,109",Sold 08/07/2020,"$438,967",2,4
+"1112 E 36th St UNIT HLT0017, Charlotte, NC 28205","2,109",Sold 08/07/2020,"$431,046",2,4
+"3635 Warp St, Charlotte, NC 28205",930,Sold 08/04/2020,"$195,000",2,2
+"2511 Pinckney Ave, Charlotte, NC 28205","2,711",Sold 07/31/2020,"$830,000",4,4
+"1108 E 36th St UNIT HLT0015, Charlotte, NC 28205","2,109",Sold 07/30/2020,"$429,268",2,4
+"829 E 35th St, Charlotte, NC 28205","1,260",Sold 07/28/2020,"$420,000",2,2
+"3609 Oakwood Ave, Charlotte, NC 28205","2,524",Sold 07/27/2020,"$635,000",4,3
+"3302 Spencer St, Charlotte, NC 28205","2,083",Sold 07/24/2020,"$449,000",3,3.5
+"3302 Spencer St #25, Charlotte, NC 28205","2,041",Sold 07/24/2020,"$448,602",3,4
+"3123 N Davidson St SUITE 313, Charlotte, NC 28205","1,234",Sold 07/23/2020,"$327,000",2,2
+"3343 Bessemer St, Charlotte, NC 28205","1,521",Sold 07/22/2020,"$341,500",2,3
+"1014 Leigh Ave, Charlotte, NC 28205","1,426",Sold 07/21/2020,"$476,500",3,2
+"708 Matheson Ave, Charlotte, NC 28205",906,Sold 07/17/2020,"$220,000",2,1
+"3304 Spencer St, Charlotte, NC 28205","2,041",Sold 07/17/2020,"$431,000",3,3.5
+"3304 Spencer St #26, Charlotte, NC 28205","1,986",Sold 07/17/2020,"$430,970",3,4
+"3551 Spencer St, Charlotte, NC 28205","1,824",Sold 07/16/2020,"$352,500",3,3
+"3306 Spencer St, Charlotte, NC 28205","2,083",Sold 07/16/2020,"$448,000",3,3.5
+"3306 Spencer St #27, Charlotte, NC 28205","2,041",Sold 07/16/2020,"$447,905",3,4
+"3118 Clemson Ave, Charlotte, NC 28205","2,515",Sold 07/15/2020,"$575,000",5,3
+"536 Donatello Ave, Charlotte, NC 28205",990,Sold 07/15/2020,"$207,500",2,2
+"1124 E 36th St, Charlotte, NC 28205","1,697",Sold 07/15/2020,"$398,500",2,3
+"1134 E 36th St #HLT0027, Charlotte, NC 28205","2,109",Sold 07/15/2020,"$438,339",2,4
+"1124 E 36th St #HLT0022, Charlotte, NC 28205","1,697",Sold 07/15/2020,"$398,456",2,3
+"1033 Matheson Ave, Charlotte, NC 28205",715,Sold 07/13/2020,"$290,000",2,2
+"3308 Spencer St, Charlotte, NC 28205","2,083",Sold 07/13/2020,"$466,000",3,3.5
+"3308 Spencer St #28, Charlotte, NC 28205","2,026",Sold 07/13/2020,"$465,945",3,4
+"1116 E 36th St, Charlotte, NC 28205","2,109",Sold 07/10/2020,"$428,500",2,3
+"1116 E 36th St UNIT HLT0019, Charlotte, NC 28205",--,Sold 07/10/2020,"$428,445",--,--
+"1116 E 36th St UNIT HLT0019, Charlotte, NC 28205","2,109",Sold 07/10/2020,"$428,445",2,4
+"3123 N Davidson St SUITE 302, Charlotte, NC 28205","1,836",Sold 07/07/2020,"$417,000",3,3
+"2907 N. Myers St., Charlotte, NC 28205","3,175",Sold 07/01/2020,"$780,000",5,4
+"3519 Spencer St, Charlotte, NC 28205","1,729",Sold 06/30/2020,"$345,000",3,3
+"1110 E 36th St, Charlotte, NC 28205","1,614",Sold 06/30/2020,"$381,500",2,3
+"3300 Spencer St, Charlotte, NC 28205","2,083",Sold 06/30/2020,"$469,500",3,3.5
+"1110 E 36th St UNIT HLT0016, Charlotte, NC 28205","1,614",Sold 06/30/2020,"$381,062",2,3
+"3300 Spencer St #24, Charlotte, NC 28205","2,026",Sold 06/30/2020,"$469,240",3,4
+"1130 E 36th St #HLT0025, Charlotte, NC 28205","2,109",Sold 06/29/2020,"$433,865",2,4
+"3008 Yadkin Ave, Charlotte, NC 28205","1,098",Sold 06/24/2020,"$380,300",2,2
+"1011 Matheson Ave, Charlotte, NC 28205","3,407",Sold 06/24/2020,"$750,000",3,4
+"523 Donatello Ave, Charlotte, NC 28205","1,077",Sold 06/19/2020,"$194,000",2,2
+"3825 Picasso Ct, Charlotte, NC 28205","1,814",Sold 06/19/2020,"$309,000",3,3
+"2988 Textile Way, Charlotte, NC 28205","1,630",Sold 06/16/2020,"$320,000",2,2
+"3907 Picasso Ct, Charlotte, NC 28205","1,885",Sold 06/15/2020,"$310,000",3,3
+"1152 E 36th St, Charlotte, NC 28205","2,109",Sold 06/15/2020,"$455,000",2,4
+"1152 E 36th St #HLT0007, Charlotte, NC 28205","2,109",Sold 06/15/2020,"$454,665",2,4
+"2817 Holt St, Charlotte, NC 28205","1,890",Sold 06/12/2020,"$536,000",3,2
+"912 Anderson St, Charlotte, NC 28205","1,876",Sold 06/10/2020,"$563,000",3,2
+"3123 N Davidson St SUITE 301, Charlotte, NC 28205","1,659",Sold 06/08/2020,"$364,000",2,2
+"3961 Picasso Ct, Charlotte, NC 28205","1,425",Sold 06/05/2020,"$256,000",2,3
+"3315 N Alexander St, Charlotte, NC 28205",864,Sold 06/03/2020,"$275,000",2,1
+"541 Steel Gardens Blvd, Charlotte, NC 28205","1,628",Sold 05/29/2020,"$341,000",2,3
+"3564 Artists Way, Charlotte, NC 28205","1,018",Sold 05/28/2020,"$283,000",2,2
+"809 E 37th St, Charlotte, NC 28205","1,134",Sold 05/22/2020,"$294,000",3,1
+"1168 E 36th St, Charlotte, NC 28205","1,704",Sold 05/22/2020,"$394,500",3,3.5
+"1168 E 36th St UNIT HLT0001, Charlotte, NC 28205","1,697",Sold 05/22/2020,"$394,198",2,3
